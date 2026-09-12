@@ -29,7 +29,7 @@
           "parameters": [
             {
               "name": "apikey",
-              "value": "K87899142388957"
+              "value": "YOUR_OCR_SPACE_API_KEY"
             }
           ]
         },
