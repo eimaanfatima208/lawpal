@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Agriculture",
+    "slug": "agriculture"
+  },
+  {
+    "id": 2,
+    "name": "Auqaf and Religious Affairs",
+    "slug": "auqaf-and-religious-affairs"
+  },
+  {
+    "id": 3,
+    "name": "Board of Revenue",
+    "slug": "board-of-revenue"
+  },
+  {
+    "id": 5,
+    "name": "Communications and Works",
+    "slug": "communications-and-works"
+  },
+  {
+    "id": 6,
+    "name": "Cooperatives",
+    "slug": "cooperatives"
+  },
+  {
+    "id": 7,
+    "name": "Energy",
+    "slug": "energy"
+  },
+  {
+    "id": 8,
+    "name": "Environment Protection",
+    "slug": "environment-protection"
+  },
+  {
+    "id": 9,
+    "name": "Excise, Taxation and Narcotics Control",
+    "slug": "excise-taxation-and-narcotics-control"
+  },
+  {
+    "id": 10,
+    "name": "Finance",
+    "slug": "finance"
+  },
+  {
+    "id": 11,
+    "name": "Food",
+    "slug": "food"
+  },
+  {
+    "id": 12,
+    "name": "Forestry, Wildlife and Fisheries",
+    "slug": "forestry-wildlife-and-fisheries"
+  },
+  {
+    "id": 14,
+    "name": "Higher Education",
+    "slug": "higher-education"
+  },
+  {
+    "id": 15,
+    "name": "Home",
+    "slug": "home"
+  },
+  {
+    "id": 16,
+    "name": "Housing, Urban Development and Public Health Engineering",
+    "slug": "housing-urban-development-and-public-health-engineering"
+  },
+  {
+    "id": 17,
+    "name": "Human Rights and Minorities Affairs",
+    "slug": "human-rights-and-minorities-affairs"
+  },
+  {
+    "id": 18,
+    "name": "Industries, Commerce, Investment and Skill Department",
+    "slug": "industries-commerce-investment-and-skill-department"
+  },
+  {
+    "id": 19,
+    "name": "Information and Culture",
+    "slug": "information-and-culture"
+  },
+  {
+    "id": 20,
+    "name": "Irrigation",
+    "slug": "irrigation"
+  },
+  {
+    "id": 21,
+    "name": "Labour and Human Resource",
+    "slug": "labour-and-human-resource"
+  },
+  {
+    "id": 22,
+    "name": "Law and Parliamentary Affairs",
+    "slug": "law-and-parliamentary-affairs"
+  },
+  {
+    "id": 24,
+    "name": "Livestock and Dairy Development",
+    "slug": "livestock-and-dairy-development"
+  },
+  {
+    "id": 25,
+    "name": "Local Government and Community Development",
+    "slug": "local-government-and-community-development"
+  },
+  {
+    "id": 27,
+    "name": "Mines and Minerals",
+    "slug": "mines-and-minerals"
+  },
+  {
+    "id": 28,
+    "name": "Planning and Development",
+    "slug": "planning-and-development"
+  },
+  {
+    "id": 29,
+    "name": "Population Welfare",
+    "slug": "population-welfare"
+  },
+  {
+    "id": 30,
+    "name": "Public Prosecution",
+    "slug": "public-prosecution"
+  },
+  {
+    "id": 39,
+    "name": "Primary and Secondary Healthcare",
+    "slug": "primary-and-secondary-healthcare"
+  },
+  {
+    "id": 41,
+    "name": "School Education",
+    "slug": "school-education"
+  },
+  {
+    "id": 13,
+    "name": "Specialized Healthcare and Medical Education",
+    "slug": "specialized-healthcare-and-medical-education"
+  },
+  {
+    "id": 32,
+    "name": "Services and General Administration",
+    "slug": "services-and-general-administration"
+  },
+  {
+    "id": 33,
+    "name": "Social Welfare and Bait-ul-Mal",
+    "slug": "social-welfare-and-bait-ul-mal"
+  },
+  {
+    "id": 34,
+    "name": "Special Education",
+    "slug": "special-education"
+  },
+  {
+    "id": 35,
+    "name": "Transport",
+    "slug": "transport"
+  },
+  {
+    "id": 36,
+    "name": "Women Development",
+    "slug": "women-development"
+  },
+  {
+    "id": 37,
+    "name": "Youth Affairs, Sports, Archeology and Tourism",
+    "slug": "youth-affairs-sports-archeology-and-tourism"
+  },
+  {
+    "id": 38,
+    "name": "Zakat and Ushr",
+    "slug": "zakat-and-ushr"
+  }
+]

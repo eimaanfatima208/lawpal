@@ -1,0 +1,942 @@
+[
+  {
+    "id": "home-1",
+    "title": "ANTI-TERRORISM ACT, 1997",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXVII of 1997",
+    "datePublished": "1997-08-19",
+    "lastUpdated": "2025-09-10",
+    "file": "/legal-documents/home/01_ANTI-TERRORISM_ACT_1997.pdf"
+  },
+  {
+    "id": "home-2",
+    "title": "BONDED LABOUR SYSTEM &#40;ABOLITION&#41; ACT, 1992",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act III of 1992",
+    "datePublished": "1992-03-16",
+    "lastUpdated": "2018-11-08",
+    "file": "/legal-documents/home/02_BONDED_LABOUR_SYSTEM_40ABOLITION41_ACT_1992.pdf"
+  },
+  {
+    "id": "home-3",
+    "title": "CIVIL DEFENCE ACT, 1952",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXXI of 1952",
+    "datePublished": "1952-04-28",
+    "lastUpdated": "2019-01-10",
+    "file": "/legal-documents/home/03_CIVIL_DEFENCE_ACT_1952.pdf"
+  },
+  {
+    "id": "home-4",
+    "title": "COMMERCIAL DOCUMENTS EVIDENCE ACT, 1939",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXX of 1939",
+    "datePublished": "1939-09-25",
+    "lastUpdated": "2019-10-28",
+    "file": "/legal-documents/home/04_COMMERCIAL_DOCUMENTS_EVIDENCE_ACT_1939.pdf"
+  },
+  {
+    "id": "home-5",
+    "title": "CONTROL OF NARCOTIC SUBSTANCES ACT, 1997",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXV of 1997",
+    "datePublished": "1997-07-10",
+    "lastUpdated": "2022-04-10",
+    "file": "/legal-documents/home/05_CONTROL_OF_NARCOTIC_SUBSTANCES_ACT_1997.pdf"
+  },
+  {
+    "id": "home-6",
+    "title": "CRIMINAL LAW (SPECIAL PROVISIONS) ORDINANCE, 1968",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance II of 1968",
+    "datePublished": "1968-06-11",
+    "lastUpdated": "2023-04-19",
+    "file": "/legal-documents/home/06_CRIMINAL_LAW_SPECIAL_PROVISIONS_ORDINANCE_1968.pdf"
+  },
+  {
+    "id": "home-7",
+    "title": "DERA GHAZI KHAN EXCLUDED AREA ELECTORAL LAWS REGULATION, 1950",
+    "department": "Home",
+    "category": "Regulation",
+    "reference": "Regulation I of 1950",
+    "datePublished": "1950-09-08",
+    "lastUpdated": "2023-09-19",
+    "file": "/legal-documents/home/07_DERA_GHAZI_KHAN_EXCLUDED_AREA_ELECTORAL_LAWS_REGULATION_1950.pdf"
+  },
+  {
+    "id": "home-8",
+    "title": "DERA GHAZI KHAN EXCLUDED AREA LAWS REGULATION, 1950",
+    "department": "Home",
+    "category": "Regulation",
+    "reference": "Regulation II of 1950",
+    "datePublished": "1950-11-13",
+    "lastUpdated": "2023-09-19",
+    "file": "/legal-documents/home/08_DERA_GHAZI_KHAN_EXCLUDED_AREA_LAWS_REGULATION_1950.pdf"
+  },
+  {
+    "id": "home-9",
+    "title": "DRAMATIC PERFORMANCES ACT, 1876",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XIX of 1876",
+    "datePublished": "1876-12-15",
+    "lastUpdated": "1876-12-15",
+    "file": "/legal-documents/home/09_DRAMATIC_PERFORMANCES_ACT_1876.pdf"
+  },
+  {
+    "id": "home-10",
+    "title": "EHTRAM-E-RAMAZAN ORDINANCE, 1981",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XXIII of 1981",
+    "datePublished": "1981-06-25",
+    "lastUpdated": "1981-06-25",
+    "file": "/legal-documents/home/10_EHTRAM-E-RAMAZAN_ORDINANCE_1981.pdf"
+  },
+  {
+    "id": "home-11",
+    "title": "EXIT FROM PAKISTAN (CONTROL) ORDINANCE, 1981",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XLVI of 1981",
+    "datePublished": "1981-12-20",
+    "lastUpdated": "1981-12-20",
+    "file": "/legal-documents/home/11_EXIT_FROM_PAKISTAN_CONTROL_ORDINANCE_1981.pdf"
+  },
+  {
+    "id": "home-12",
+    "title": "EXPLOSIVE SUBSTANCES ACT, 1908",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act VI of 1908",
+    "datePublished": "1908-06-08",
+    "lastUpdated": "2021-11-17",
+    "file": "/legal-documents/home/12_EXPLOSIVE_SUBSTANCES_ACT_1908.pdf"
+  },
+  {
+    "id": "home-13",
+    "title": "EXPLOSIVES ACT, 1884",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act IV of 1884",
+    "datePublished": "1884-02-25",
+    "lastUpdated": "1884-02-25",
+    "file": "/legal-documents/home/13_EXPLOSIVES_ACT_1884.pdf"
+  },
+  {
+    "id": "home-14",
+    "title": "EXTRADITION ACT, 1972",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXI of 1972",
+    "datePublished": "1972-09-24",
+    "lastUpdated": "1972-09-24",
+    "file": "/legal-documents/home/14_EXTRADITION_ACT_1972.pdf"
+  },
+  {
+    "id": "home-15",
+    "title": "FAMILY COURTS ACT, 1964",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXXV of 1964",
+    "datePublished": "1964-07-18",
+    "lastUpdated": "2023-05-09",
+    "file": "/legal-documents/home/15_FAMILY_COURTS_ACT_1964.pdf"
+  },
+  {
+    "id": "home-16",
+    "title": "FOREIGNERS ACT, 1946",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXXI of 1946",
+    "datePublished": "1946-11-22",
+    "lastUpdated": "1946-11-22",
+    "file": "/legal-documents/home/16_FOREIGNERS_ACT_1946.pdf"
+  },
+  {
+    "id": "home-17",
+    "title": "GOOD CONDUCT PRISONERS’ PROBATIONAL RELEASE ACT, 1926",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act X of 1926",
+    "datePublished": "1926-08-26",
+    "lastUpdated": "2022-03-08",
+    "file": "/legal-documents/home/17_GOOD_CONDUCT_PRISONERS_PROBATIONAL_RELEASE_ACT_1926.pdf"
+  },
+  {
+    "id": "home-18",
+    "title": "IDENTIFICATION OF PRISONERS ACT, 1920",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXX of 1920",
+    "datePublished": "1920-09-09",
+    "lastUpdated": "1920-09-09",
+    "file": "/legal-documents/home/18_IDENTIFICATION_OF_PRISONERS_ACT_1920.pdf"
+  },
+  {
+    "id": "home-19",
+    "title": "INDECENT ADVERTISEMENTS PROHIBITION ACT, 1963",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XII of 1963",
+    "datePublished": "1963-06-17",
+    "lastUpdated": "2019-01-10",
+    "file": "/legal-documents/home/19_INDECENT_ADVERTISEMENTS_PROHIBITION_ACT_1963.pdf"
+  },
+  {
+    "id": "home-20",
+    "title": "JUVENILE JUSTICE SYSTEM ACT, 2018",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXII of 2018",
+    "datePublished": "2018-05-17",
+    "lastUpdated": "2018-05-17",
+    "file": "/legal-documents/home/20_JUVENILE_JUSTICE_SYSTEM_ACT_2018.pdf"
+  },
+  {
+    "id": "home-21",
+    "title": "MOTION PICTURES ORDINANCE, 1979",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XLIII of 1979",
+    "datePublished": "1979-09-02",
+    "lastUpdated": "2019-01-21",
+    "file": "/legal-documents/home/21_MOTION_PICTURES_ORDINANCE_1979.pdf"
+  },
+  {
+    "id": "home-22",
+    "title": "MOTOR VEHICLES (DRIVERS) ORDINANCE 1942",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance V of 1942",
+    "datePublished": "1942-01-26",
+    "lastUpdated": "1942-01-26",
+    "file": "/legal-documents/home/22_MOTOR_VEHICLES_DRIVERS_ORDINANCE_1942.pdf"
+  },
+  {
+    "id": "home-23",
+    "title": "MURDEROUS OUTRAGES ACT, 1867",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXIII of 1867",
+    "datePublished": "1867-03-22",
+    "lastUpdated": "1867-03-22",
+    "file": "/legal-documents/home/23_MURDEROUS_OUTRAGES_ACT_1867.pdf"
+  },
+  {
+    "id": "home-24",
+    "title": "NATURALIZATION ACT, 1926",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act VII of 1926",
+    "datePublished": "1926-02-25",
+    "lastUpdated": "1926-02-25",
+    "file": "/legal-documents/home/24_NATURALIZATION_ACT_1926.pdf"
+  },
+  {
+    "id": "home-25",
+    "title": "NOTARIES ORDINANCE, 1961",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XIX of 1961",
+    "datePublished": "1961-06-13",
+    "lastUpdated": "2025-08-28",
+    "file": "/legal-documents/home/25_NOTARIES_ORDINANCE_1961.pdf"
+  },
+  {
+    "id": "home-26",
+    "title": "OATHS ACT, 1873",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act X of 1873",
+    "datePublished": "1873-04-17",
+    "lastUpdated": "1873-04-17",
+    "file": "/legal-documents/home/26_OATHS_ACT_1873.pdf"
+  },
+  {
+    "id": "home-27",
+    "title": "PAKISTAN CITIZENSHIP ACT, 1951",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act II of 1951",
+    "datePublished": "1951-04-12",
+    "lastUpdated": "2019-01-10",
+    "file": "/legal-documents/home/27_PAKISTAN_CITIZENSHIP_ACT_1951.pdf"
+  },
+  {
+    "id": "home-28",
+    "title": "PAKISTAN PENAL CODE, 1860",
+    "department": "Home",
+    "category": "Act",
+    "reference": "XLV of 1860",
+    "datePublished": "1860-10-05",
+    "lastUpdated": "1860-10-05",
+    "file": "/legal-documents/home/28_PAKISTAN_PENAL_CODE_1860.pdf"
+  },
+  {
+    "id": "home-29",
+    "title": "PAKISTAN RANGERS ORDINANCE, 1959",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XIV of 1959",
+    "datePublished": "1959-03-27",
+    "lastUpdated": "2023-09-24",
+    "file": "/legal-documents/home/29_PAKISTAN_RANGERS_ORDINANCE_1959.pdf"
+  },
+  {
+    "id": "home-30",
+    "title": "PETROLEUM ACT, 1934",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXX of 1934",
+    "datePublished": "1934-09-05",
+    "lastUpdated": "1934-09-05",
+    "file": "/legal-documents/home/30_PETROLEUM_ACT_1934.pdf"
+  },
+  {
+    "id": "home-31",
+    "title": "POLICE ORDER, 2002",
+    "department": "Home",
+    "category": "Order",
+    "reference": "Order 22 of 2002",
+    "datePublished": "2002-08-13",
+    "lastUpdated": "2026-03-02",
+    "file": "/legal-documents/home/31_POLICE_ORDER_2002.pdf"
+  },
+  {
+    "id": "home-32",
+    "title": "PREVENTION OF ANTI-NATIONAL ACTIVITIES ACT, 1974",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act VII of 1974",
+    "datePublished": "1974-02-13",
+    "lastUpdated": "1974-02-13",
+    "file": "/legal-documents/home/32_PREVENTION_OF_ANTI-NATIONAL_ACTIVITIES_ACT_1974.pdf"
+  },
+  {
+    "id": "home-33",
+    "title": "PREVENTION OF GAMBLING ACT, 1977",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXVIII of 1977",
+    "datePublished": "1977-05-24",
+    "lastUpdated": "1977-05-24",
+    "file": "/legal-documents/home/33_PREVENTION_OF_GAMBLING_ACT_1977.pdf"
+  },
+  {
+    "id": "home-34",
+    "title": "PRICE CONTROL AND PREVENTION OF PROFITEERING AND HOARDING ACT, 1977",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXIX of 1977",
+    "datePublished": "1977-05-24",
+    "lastUpdated": "1977-05-24",
+    "file": "/legal-documents/home/34_PRICE_CONTROL_AND_PREVENTION_OF_PROFITEERING_AND_HOARDING_ACT_1977.pdf"
+  },
+  {
+    "id": "home-35",
+    "title": "PRISONERS ACT, 1900",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act III of 1900",
+    "datePublished": "1900-02-02",
+    "lastUpdated": "2020-02-13",
+    "file": "/legal-documents/home/35_PRISONERS_ACT_1900.pdf"
+  },
+  {
+    "id": "home-36",
+    "title": "PRISONS ACT, 1894",
+    "department": "Home",
+    "category": "ACT",
+    "reference": "ACT IX of 1894",
+    "datePublished": "1894-03-21",
+    "lastUpdated": "2020-02-06",
+    "file": "/legal-documents/home/36_PRISONS_ACT_1894.pdf"
+  },
+  {
+    "id": "home-37",
+    "title": "PROBATION OF OFFENDERS ORDINANCE, 1960",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XLV of 1960",
+    "datePublished": "1960-10-31",
+    "lastUpdated": "2025-08-27",
+    "file": "/legal-documents/home/37_PROBATION_OF_OFFENDERS_ORDINANCE_1960.pdf"
+  },
+  {
+    "id": "home-38",
+    "title": "PROVINCIAL MOTOR VEHICLES ORDINANCE, 1965",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XIX of 1965",
+    "datePublished": "1965-07-09",
+    "lastUpdated": "2026-03-23",
+    "file": "/legal-documents/home/38_PROVINCIAL_MOTOR_VEHICLES_ORDINANCE_1965.pdf"
+  },
+  {
+    "id": "home-39",
+    "title": "PROVINCIAL SMALL CAUSE COURTS ACT, 1887",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act IX OF 1887",
+    "datePublished": "1887-02-23",
+    "lastUpdated": "1887-02-23",
+    "file": "/legal-documents/home/39_PROVINCIAL_SMALL_CAUSE_COURTS_ACT_1887.pdf"
+  },
+  {
+    "id": "home-40",
+    "title": "PUBLIC GAMBLING (REPEAL) ACT, 1985",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act II of 1885",
+    "datePublished": "1985-11-06",
+    "lastUpdated": "1985-11-06",
+    "file": "/legal-documents/home/40_PUBLIC_GAMBLING_REPEAL_ACT_1985.pdf"
+  },
+  {
+    "id": "home-41",
+    "title": "PUNJAB ADMINISTRATIVE VIGILANCE COMMISSION (REPEAL) ORDINANCE, 1982",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance VIII of 1982",
+    "datePublished": "1982-06-28",
+    "lastUpdated": "1982-06-28",
+    "file": "/legal-documents/home/41_PUNJAB_ADMINISTRATIVE_VIGILANCE_COMMISSION_REPEAL_ORDINANCE_1982.pdf"
+  },
+  {
+    "id": "home-42",
+    "title": "PUNJAB ARMS ORDINANCE, 1965",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XX of 1965",
+    "datePublished": "1965-06-08",
+    "lastUpdated": "2025-09-30",
+    "file": "/legal-documents/home/42_PUNJAB_ARMS_ORDINANCE_1965.pdf"
+  },
+  {
+    "id": "home-43",
+    "title": "PUNJAB BORDER MILITARY POLICE ACT, 1904",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act IV of 1904",
+    "datePublished": "1904-03-04",
+    "lastUpdated": "2020-02-17",
+    "file": "/legal-documents/home/43_PUNJAB_BORDER_MILITARY_POLICE_ACT_1904.pdf"
+  },
+  {
+    "id": "home-44",
+    "title": "PUNJAB BORSTAL ACT, 1926",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XI of 1926",
+    "datePublished": "1926-08-26",
+    "lastUpdated": "2022-03-08",
+    "file": "/legal-documents/home/44_PUNJAB_BORSTAL_ACT_1926.pdf"
+  },
+  {
+    "id": "home-45",
+    "title": "PUNJAB BUS STANDS AND TRAFFIC CONTROL (GUJRANWALA) ORDINANCE, 1963 (XX OF 1963) (REPEAL) ACT 2011",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act I of 2012",
+    "datePublished": "2012-01-02",
+    "lastUpdated": "2019-01-21",
+    "file": "/legal-documents/home/45_PUNJAB_BUS_STANDS_AND_TRAFFIC_CONTROL_GUJRANWALA_ORDINANCE_1963_XX_OF_1963_REPEA.pdf"
+  },
+  {
+    "id": "home-46",
+    "title": "PUNJAB BUS STANDS AND TRAFFIC CONTROL (LAHORE) ORDINANCE, 1963 (XIX OF 1963) (REPEAL) ACT 2011",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act II of 2012",
+    "datePublished": "2012-01-02",
+    "lastUpdated": "2019-01-21",
+    "file": "/legal-documents/home/46_PUNJAB_BUS_STANDS_AND_TRAFFIC_CONTROL_LAHORE_ORDINANCE_1963_XIX_OF_1963_REPEAL_A.pdf"
+  },
+  {
+    "id": "home-47",
+    "title": "PUNJAB CHARITIES ACT 2018",
+    "department": "Home",
+    "category": "Act",
+    "reference": "V of 2018",
+    "datePublished": "2018-03-06",
+    "lastUpdated": "2018-03-06",
+    "file": "/legal-documents/home/47_PUNJAB_CHARITIES_ACT_2018.pdf"
+  },
+  {
+    "id": "home-48",
+    "title": "PUNJAB CIVIL COURTS ORDINANCE, 1962",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance II of 1962",
+    "datePublished": "1962-01-07",
+    "lastUpdated": "2023-05-09",
+    "file": "/legal-documents/home/48_PUNJAB_CIVIL_COURTS_ORDINANCE_1962.pdf"
+  },
+  {
+    "id": "home-49",
+    "title": "PUNJAB CIVILIAN VICTIMS OF TERRORISM (RELIEF AND REHABILITATION) ACT 2016",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXXIX of 2016",
+    "datePublished": "2016-09-01",
+    "lastUpdated": "2016-09-01",
+    "file": "/legal-documents/home/49_PUNJAB_CIVILIAN_VICTIMS_OF_TERRORISM_RELIEF_AND_REHABILITATION_ACT_2016.pdf"
+  },
+  {
+    "id": "home-50",
+    "title": "PUNJAB CONTROL OF GOONDAS (REMOVAL OF DOUBTS) ORDINANCE, 1972",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XIII of 1972",
+    "datePublished": "1972-04-19",
+    "lastUpdated": "1972-04-19",
+    "file": "/legal-documents/home/50_PUNJAB_CONTROL_OF_GOONDAS_REMOVAL_OF_DOUBTS_ORDINANCE_1972.pdf"
+  },
+  {
+    "id": "home-51",
+    "title": "PUNJAB CONTROL OF GOONDAS ORDINANCE, 1959",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XXXV of 1959",
+    "datePublished": "1959-06-03",
+    "lastUpdated": "2023-09-25",
+    "file": "/legal-documents/home/51_PUNJAB_CONTROL_OF_GOONDAS_ORDINANCE_1959.pdf"
+  },
+  {
+    "id": "home-52",
+    "title": "PUNJAB DESTITUTE AND NEGLECTED CHILDREN ACT 2004",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XVIII of 2004",
+    "datePublished": "2004-06-22",
+    "lastUpdated": "2025-12-25",
+    "file": "/legal-documents/home/52_PUNJAB_DESTITUTE_AND_NEGLECTED_CHILDREN_ACT_2004.pdf"
+  },
+  {
+    "id": "home-53",
+    "title": "PUNJAB EMERGENCY SERVICE ACT 2006",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act IV of 2006",
+    "datePublished": "2006-06-18",
+    "lastUpdated": "2026-02-26",
+    "file": "/legal-documents/home/53_PUNJAB_EMERGENCY_SERVICE_ACT_2006.pdf"
+  },
+  {
+    "id": "home-54",
+    "title": "PUNJAB FOODSTUFFS (CONTROL) ACT, 1958",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XX of 1958",
+    "datePublished": "1958-04-22",
+    "lastUpdated": "2023-09-20",
+    "file": "/legal-documents/home/54_PUNJAB_FOODSTUFFS_CONTROL_ACT_1958.pdf"
+  },
+  {
+    "id": "home-55",
+    "title": "PUNJAB FORENSIC SCIENCE AGENCY ACT 2007",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XIII of 2007",
+    "datePublished": "2007-10-29",
+    "lastUpdated": "2007-10-29",
+    "file": "/legal-documents/home/55_PUNJAB_FORENSIC_SCIENCE_AGENCY_ACT_2007.pdf"
+  },
+  {
+    "id": "home-56",
+    "title": "PUNJAB FORENSIC SCIENCE AUTHORITY ACT 2025",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XVIII of 2025",
+    "datePublished": "2025-03-23",
+    "lastUpdated": "2025-03-23",
+    "file": "/legal-documents/home/56_PUNJAB_FORENSIC_SCIENCE_AUTHORITY_ACT_2025.pdf"
+  },
+  {
+    "id": "home-57",
+    "title": "PUNJAB HIGH SECURITY ZONES (ESTABLISHMENT) ACT 2026",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XLI of 2026",
+    "datePublished": "2026-05-13",
+    "lastUpdated": "2026-05-13",
+    "file": "/legal-documents/home/57_PUNJAB_HIGH_SECURITY_ZONES_ESTABLISHMENT_ACT_2026.pdf"
+  },
+  {
+    "id": "home-58",
+    "title": "PUNJAB INFORMATION OF TEMPORARY RESIDENTS ACT 2015",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act VIII of 2015",
+    "datePublished": "2015-03-09",
+    "lastUpdated": "2015-03-09",
+    "file": "/legal-documents/home/58_PUNJAB_INFORMATION_OF_TEMPORARY_RESIDENTS_ACT_2015.pdf"
+  },
+  {
+    "id": "home-59",
+    "title": "PUNJAB JUVENILE SMOKING ORDINANCE, 1959",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XII of 1959",
+    "datePublished": "1959-03-25",
+    "lastUpdated": "2023-09-24",
+    "file": "/legal-documents/home/59_PUNJAB_JUVENILE_SMOKING_ORDINANCE_1959.pdf"
+  },
+  {
+    "id": "home-60",
+    "title": "PUNJAB LAND PRESERVATION (EXTENSION TO DERA GHAZI KHAN EXCLUDED AREA) REGULATION, 1959",
+    "department": "Home",
+    "category": "Regulation",
+    "reference": "Regulation I of 1959",
+    "datePublished": "1959-09-11",
+    "lastUpdated": "2023-09-24",
+    "file": "/legal-documents/home/60_PUNJAB_LAND_PRESERVATION_EXTENSION_TO_DERA_GHAZI_KHAN_EXCLUDED_AREA_REGULATION_1.pdf"
+  },
+  {
+    "id": "home-61",
+    "title": "PUNJAB MAINTENANCE OF PUBLIC ORDER ORDINANCE, 1960",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XXXI of 1960",
+    "datePublished": "1960-12-01",
+    "lastUpdated": "2023-09-25",
+    "file": "/legal-documents/home/61_PUNJAB_MAINTENANCE_OF_PUBLIC_ORDER_ORDINANCE_1960.pdf"
+  },
+  {
+    "id": "home-62",
+    "title": "PUNJAB MARRIAGE FUNCTIONS ACT 2016",
+    "department": "Home",
+    "category": "Act",
+    "reference": "XXIX of 2016",
+    "datePublished": "2016-04-19",
+    "lastUpdated": "2016-04-19",
+    "file": "/legal-documents/home/62_PUNJAB_MARRIAGE_FUNCTIONS_ACT_2016.pdf"
+  },
+  {
+    "id": "home-63",
+    "title": "PUNJAB MILITARY TRANSPORT ACT, 1916",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act I of 1916",
+    "datePublished": "1916-02-03",
+    "lastUpdated": "2021-11-17",
+    "file": "/legal-documents/home/63_PUNJAB_MILITARY_TRANSPORT_ACT_1916.pdf"
+  },
+  {
+    "id": "home-64",
+    "title": "PUNJAB PREVENTION OF GAMBLING ORDINANCE, 1978",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance VII of 1978",
+    "datePublished": "1978-03-13",
+    "lastUpdated": "1978-03-13",
+    "file": "/legal-documents/home/64_PUNJAB_PREVENTION_OF_GAMBLING_ORDINANCE_1978.pdf"
+  },
+  {
+    "id": "home-65",
+    "title": "PUNJAB PREVENTION OF HOARDING ACT 2020",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XV of 2020",
+    "datePublished": "2020-08-10",
+    "lastUpdated": "2020-08-10",
+    "file": "/legal-documents/home/65_PUNJAB_PREVENTION_OF_HOARDING_ACT_2020.pdf"
+  },
+  {
+    "id": "home-66",
+    "title": "PUNJAB PRIVATE SECURITY COMPANIES (REGULATION AND CONTROL) ORDINANCE, 2002",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance LXIX of 2002",
+    "datePublished": "2002-10-18",
+    "lastUpdated": "2002-10-18",
+    "file": "/legal-documents/home/66_PUNJAB_PRIVATE_SECURITY_COMPANIES_REGULATION_AND_CONTROL_ORDINANCE_2002.pdf"
+  },
+  {
+    "id": "home-67",
+    "title": "PUNJAB PROBATION AND PAROLE SERVICE ACT 2019",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXXVI of 2019",
+    "datePublished": "2019-12-30",
+    "lastUpdated": "2020-01-06",
+    "file": "/legal-documents/home/67_PUNJAB_PROBATION_AND_PAROLE_SERVICE_ACT_2019.pdf"
+  },
+  {
+    "id": "home-68",
+    "title": "PUNJAB PROHIBITION OF SMOKING IN CINEMA HOUSES ORDINANCE, 1960",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance IV of 1960",
+    "datePublished": "1960-02-05",
+    "lastUpdated": "2023-09-25",
+    "file": "/legal-documents/home/68_PUNJAB_PROHIBITION_OF_SMOKING_IN_CINEMA_HOUSES_ORDINANCE_1960.pdf"
+  },
+  {
+    "id": "home-69",
+    "title": "PUNJAB QAUMI RAZAKARS ORDINANCE, 1965",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XXVIII of 1965",
+    "datePublished": "1965-09-24",
+    "lastUpdated": "2023-05-07",
+    "file": "/legal-documents/home/69_PUNJAB_QAUMI_RAZAKARS_ORDINANCE_1965.pdf"
+  },
+  {
+    "id": "home-70",
+    "title": "PUNJAB RENTED PREMISES ACT 2009",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act VII of 2009",
+    "datePublished": "2009-11-16",
+    "lastUpdated": "2009-11-16",
+    "file": "/legal-documents/home/70_PUNJAB_RENTED_PREMISES_ACT_2009.pdf"
+  },
+  {
+    "id": "home-71",
+    "title": "PUNJAB REQUISITIONING OF MOTOR VEHICLES (TEMPORARY POWERS) ORDINANCE, 1970",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XIII of 1970",
+    "datePublished": "1970-04-29",
+    "lastUpdated": "1970-04-29",
+    "file": "/legal-documents/home/71_PUNJAB_REQUISITIONING_OF_MOTOR_VEHICLES_TEMPORARY_POWERS_ORDINANCE_1970.pdf"
+  },
+  {
+    "id": "home-72",
+    "title": "PUNJAB SAFE CITIES AUTHORITY ACT 2016",
+    "department": "Home",
+    "category": "Act",
+    "reference": "I of 2016",
+    "datePublished": "2016-02-05",
+    "lastUpdated": "2016-02-05",
+    "file": "/legal-documents/home/72_PUNJAB_SAFE_CITIES_AUTHORITY_ACT_2016.pdf"
+  },
+  {
+    "id": "home-73",
+    "title": "PUNJAB SECURITY OF VULNERABLE ESTABLISHMENTS ACT 2015",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XIV of 2015",
+    "datePublished": "2015-03-17",
+    "lastUpdated": "2018-10-28",
+    "file": "/legal-documents/home/73_PUNJAB_SECURITY_OF_VULNERABLE_ESTABLISHMENTS_ACT_2015.pdf"
+  },
+  {
+    "id": "home-74",
+    "title": "PUNJAB SENTENCING ACT 2019",
+    "department": "Home",
+    "category": "Act",
+    "reference": "XXXIV of 2019",
+    "datePublished": "2019-12-12",
+    "lastUpdated": "2019-12-21",
+    "file": "/legal-documents/home/74_PUNJAB_SENTENCING_ACT_2019.pdf"
+  },
+  {
+    "id": "home-75",
+    "title": "PUNJAB SHOPS AND ESTABLISHMENTS (SECURITY) ACT 1999",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act II of 1999",
+    "datePublished": "1999-02-03",
+    "lastUpdated": "2022-04-10",
+    "file": "/legal-documents/home/75_PUNJAB_SHOPS_AND_ESTABLISHMENTS_SECURITY_ACT_1999.pdf"
+  },
+  {
+    "id": "home-76",
+    "title": "PUNJAB SOUND SYSTEMS (REGULATION) ACT 2015",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XVIII of 2015",
+    "datePublished": "2015-03-17",
+    "lastUpdated": "2015-03-17",
+    "file": "/legal-documents/home/76_PUNJAB_SOUND_SYSTEMS_REGULATION_ACT_2015.pdf"
+  },
+  {
+    "id": "home-77",
+    "title": "PUNJAB SPECIAL PROTECTION UNIT ACT2016",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act II of 2016",
+    "datePublished": "2016-02-05",
+    "lastUpdated": "2016-02-05",
+    "file": "/legal-documents/home/77_PUNJAB_SPECIAL_PROTECTION_UNIT_ACT2016.pdf"
+  },
+  {
+    "id": "home-78",
+    "title": "PUNJAB STRATEGIC COORDINATION ACT 2014",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXV of 2014",
+    "datePublished": "2014-11-09",
+    "lastUpdated": "2014-11-09",
+    "file": "/legal-documents/home/78_PUNJAB_STRATEGIC_COORDINATION_ACT_2014.pdf"
+  },
+  {
+    "id": "home-79",
+    "title": "PUNJAB SUPPRESSION OF PROSTITUTION ORDINANCE, 1961",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance II of 1961",
+    "datePublished": "1961-01-06",
+    "lastUpdated": "2023-09-26",
+    "file": "/legal-documents/home/79_PUNJAB_SUPPRESSION_OF_PROSTITUTION_ORDINANCE_1961.pdf"
+  },
+  {
+    "id": "home-80",
+    "title": "PUNJAB TENDOO LEAVES (PROHIBITION ON POSSESSION AND USE IN THE BORDER-BELT) ACT, 1974",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act IV of 1974",
+    "datePublished": "1974-02-28",
+    "lastUpdated": "1974-02-28",
+    "file": "/legal-documents/home/80_PUNJAB_TENDOO_LEAVES_PROHIBITION_ON_POSSESSION_AND_USE_IN_THE_BORDER-BELT_ACT_19.pdf"
+  },
+  {
+    "id": "home-81",
+    "title": "PUNJAB TRIBUNALS OF INQUIRY ORDINANCE, 1969",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance II of 1969",
+    "datePublished": "1969-04-13",
+    "lastUpdated": "1969-04-13",
+    "file": "/legal-documents/home/81_PUNJAB_TRIBUNALS_OF_INQUIRY_ORDINANCE_1969.pdf"
+  },
+  {
+    "id": "home-82",
+    "title": "PUNJAB VAGRANCY ORDINANCE, 1958",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XX of 1958",
+    "datePublished": "1958-09-30",
+    "lastUpdated": "2025-08-28",
+    "file": "/legal-documents/home/82_PUNJAB_VAGRANCY_ORDINANCE_1958.pdf"
+  },
+  {
+    "id": "home-83",
+    "title": "PUNJAB VIGILANCE COMMITTEES ACT 2016",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXVIII of 2016",
+    "datePublished": "2016-04-19",
+    "lastUpdated": "2020-02-25",
+    "file": "/legal-documents/home/83_PUNJAB_VIGILANCE_COMMITTEES_ACT_2016.pdf"
+  },
+  {
+    "id": "home-84",
+    "title": "PUNJAB WITNESS PROTECTION ACT 2018",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXI of 2018",
+    "datePublished": "2018-05-23",
+    "lastUpdated": "2018-05-23",
+    "file": "/legal-documents/home/84_PUNJAB_WITNESS_PROTECTION_ACT_2018.pdf"
+  },
+  {
+    "id": "home-85",
+    "title": "QANUN-E-SHAHADAT ORDER, 1984",
+    "department": "Home",
+    "category": "Order",
+    "reference": "Order X of 1984",
+    "datePublished": "1984-10-27",
+    "lastUpdated": "1984-10-27",
+    "file": "/legal-documents/home/85_QANUN-E-SHAHADAT_ORDER_1984.pdf"
+  },
+  {
+    "id": "home-86",
+    "title": "REFORMATORY SCHOOLS ACT, 1897",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act VIII of 1897",
+    "datePublished": "1897-03-10",
+    "lastUpdated": "2020-02-09",
+    "file": "/legal-documents/home/86_REFORMATORY_SCHOOLS_ACT_1897.pdf"
+  },
+  {
+    "id": "home-87",
+    "title": "REGISTRATION OF FOREIGNERS ACT, 1939",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XVI of 1939",
+    "datePublished": "1939-04-07",
+    "lastUpdated": "2019-10-28",
+    "file": "/legal-documents/home/87_REGISTRATION_OF_FOREIGNERS_ACT_1939.pdf"
+  },
+  {
+    "id": "home-88",
+    "title": "RESTRICTION OF HABITUAL OFFENDERS (PUNJAB) ACT, 1918",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act V of 1918",
+    "datePublished": "1918-04-25",
+    "lastUpdated": "2021-11-17",
+    "file": "/legal-documents/home/88_RESTRICTION_OF_HABITUAL_OFFENDERS_PUNJAB_ACT_1918.pdf"
+  },
+  {
+    "id": "home-89",
+    "title": "SURRENDER OF ILLICIT ARMS ACT, 1991",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XXI of 1991",
+    "datePublished": "1991-12-01",
+    "lastUpdated": "1991-12-01",
+    "file": "/legal-documents/home/89_SURRENDER_OF_ILLICIT_ARMS_ACT_1991.pdf"
+  },
+  {
+    "id": "home-90",
+    "title": "THE PUNJAB COURT OF WARDS ACT, 1903",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act II of 1903",
+    "datePublished": "1903-06-01",
+    "lastUpdated": "2020-02-16",
+    "file": "/legal-documents/home/90_THE_PUNJAB_COURT_OF_WARDS_ACT_1903.pdf"
+  },
+  {
+    "id": "home-91",
+    "title": "TRANSFER OF OFFENDERSS ORDINANCE, 2002",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance XXXVII of 2002",
+    "datePublished": "2002-08-02",
+    "lastUpdated": "2002-08-02",
+    "file": "/legal-documents/home/91_TRANSFER_OF_OFFENDERSS_ORDINANCE_2002.pdf"
+  },
+  {
+    "id": "home-92",
+    "title": "UNITED NATIONS (SECURITY COUNCIL) ACT, 1948",
+    "department": "Home",
+    "category": "Act",
+    "reference": "Act XIV of 1948",
+    "datePublished": "1948-06-10",
+    "lastUpdated": "1948-06-10",
+    "file": "/legal-documents/home/92_UNITED_NATIONS_SECURITY_COUNCIL_ACT_1948.pdf"
+  },
+  {
+    "id": "home-93",
+    "title": "WEST PAKISTAN BORDER AREA REGULATION, 1959",
+    "department": "Home",
+    "category": "Act",
+    "reference": "NO. 9 OF 1959",
+    "datePublished": "1959-03-16",
+    "lastUpdated": "2022-04-10",
+    "file": "/legal-documents/home/93_WEST_PAKISTAN_BORDER_AREA_REGULATION_1959.pdf"
+  },
+  {
+    "id": "home-94",
+    "title": "WEST PAKISTAN PROHIBITION OF OPIUM SMOKING ORDINANCE, 1960",
+    "department": "Home",
+    "category": "Ordinance",
+    "reference": "Ordinance II of 1960",
+    "datePublished": "1960-07-19",
+    "lastUpdated": "1960-07-19",
+    "file": "/legal-documents/home/94_WEST_PAKISTAN_PROHIBITION_OF_OPIUM_SMOKING_ORDINANCE_1960.pdf"
+  }
+]

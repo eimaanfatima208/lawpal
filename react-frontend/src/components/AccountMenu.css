@@ -1,0 +1,105 @@
+.account-menu {
+  position: relative;
+}
+
+.account-menu-trigger {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-color: #D97706;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.2s;
+  padding: 0;
+}
+
+.account-menu-trigger:hover {
+  transform: scale(1.05);
+}
+
+.account-menu-initials {
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.account-menu-dropdown {
+  position: absolute;
+  min-width: 160px;
+  background: #FFFFFF;
+  border: 1px solid #E5E7EB;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+  z-index: 1000;
+}
+
+.account-menu-dropdown-portal {
+  position: fixed;
+  z-index: 10000;
+}
+
+.account-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px 14px;
+  border: none;
+  background: none;
+  text-align: left;
+  font-size: 14px;
+  color: #374151;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.account-menu-item-icon {
+  flex-shrink: 0;
+  color: #6B7280;
+}
+
+.account-menu-item:hover {
+  background-color: #FFF7ED;
+  color: #D97706;
+}
+
+.account-menu-item:hover .account-menu-item-icon {
+  color: #D97706;
+}
+
+.account-menu-item-logout {
+  border-top: 1px solid #F3F4F6;
+  color: #DC2626;
+}
+
+.account-menu-item-logout .account-menu-item-icon {
+  color: #DC2626;
+}
+
+.account-menu-item-logout:hover {
+  background-color: #FEF2F2;
+  color: #B91C1C;
+}
+
+.account-menu-item-logout:hover .account-menu-item-icon {
+  color: #B91C1C;
+}
+
+.account-menu-trigger.user-profile {
+  width: 32px;
+  height: 32px;
+}
+
+.account-menu-trigger.lawyer-user-profile {
+  width: 36px;
+  height: 36px;
+}
+
+.account-menu-trigger.profile-button {
+  width: 36px;
+  height: 36px;
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "food-1",
+    "title": "PUNJAB FINANCE ACT, 1964",
+    "department": "Food",
+    "category": "Act",
+    "reference": "Act XXXIV of 1964",
+    "datePublished": "1964-06-28",
+    "lastUpdated": "2026-01-22",
+    "file": "/legal-documents/food/01_PUNJAB_FINANCE_ACT_1964.pdf"
+  },
+  {
+    "id": "food-2",
+    "title": "PUNJAB FOOD AUTHORITY ACT 2011",
+    "department": "Food",
+    "category": "Act",
+    "reference": "Act XVI of 2011",
+    "datePublished": "2011-07-05",
+    "lastUpdated": "2011-07-05",
+    "file": "/legal-documents/food/02_PUNJAB_FOOD_AUTHORITY_ACT_2011.pdf"
+  },
+  {
+    "id": "food-3",
+    "title": "PUNJAB FOODSTUFFS (CONTROL) ACT, 1958",
+    "department": "Food",
+    "category": "Act",
+    "reference": "Act XX of 1958",
+    "datePublished": "1958-04-22",
+    "lastUpdated": "2023-09-20",
+    "file": "/legal-documents/food/03_PUNJAB_FOODSTUFFS_CONTROL_ACT_1958.pdf"
+  },
+  {
+    "id": "food-4",
+    "title": "PUNJAB PRICE CONTROL OF ESSENTIAL COMMODITIES ACT 2024",
+    "department": "Food",
+    "category": "Act",
+    "reference": "Act VII of 2024",
+    "datePublished": "2024-06-13",
+    "lastUpdated": "2025-10-01",
+    "file": "/legal-documents/food/04_PUNJAB_PRICE_CONTROL_OF_ESSENTIAL_COMMODITIES_ACT_2024.pdf"
+  },
+  {
+    "id": "food-5",
+    "title": "SUGAR FACTORIES CONTROL ACT 1950",
+    "department": "Food",
+    "category": "Act",
+    "reference": "Act XXII of 1950",
+    "datePublished": "1950-04-10",
+    "lastUpdated": "2023-09-19",
+    "file": "/legal-documents/food/05_SUGAR_FACTORIES_CONTROL_ACT_1950.pdf"
+  },
+  {
+    "id": "food-6",
+    "title": "WEST PAKISTAN FOODSTUFFS (CONTROL) (PUNJAB AMENDMENT AND VALIDATION) ORDINANCE, 1971",
+    "department": "Food",
+    "category": "Ordinance",
+    "reference": "Ordinance XXVII of 1971",
+    "datePublished": "1971-12-12",
+    "lastUpdated": "1971-12-12",
+    "file": "/legal-documents/food/06_WEST_PAKISTAN_FOODSTUFFS_CONTROL_PUNJAB_AMENDMENT_AND_VALIDATION_ORDINANCE_1971.pdf"
+  }
+]

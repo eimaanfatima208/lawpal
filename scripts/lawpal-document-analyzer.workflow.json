@@ -1,0 +1,209 @@
+{
+  "id": "LawPalDocAnalyzer001",
+  "name": "LawPal Document Analyzer",
+  "active": false,
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "document-analyzer",
+        "responseMode": "responseNode",
+        "options": {
+          "binaryPropertyName": "data",
+          "rawBody": false
+        }
+      },
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "name": "Document Upload",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [0, 0],
+      "webhookId": "lawpal-document-analyzer"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.ocr.space/parse/image",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "K87899142388957"
+            }
+          ]
+        },
+        "sendBody": true,
+        "contentType": "multipart-form-data",
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "language",
+              "value": "eng"
+            },
+            {
+              "name": "isOverlayRequired",
+              "value": "false"
+            },
+            {
+              "name": "OCREngine",
+              "value": "2"
+            },
+            {
+              "name": "scale",
+              "value": "true"
+            },
+            {
+              "parameterType": "formBinaryData",
+              "name": "file",
+              "inputDataFieldName": "data"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 120000
+        }
+      },
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "name": "OCR Space",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [280, 0]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "const item = $input.first();\nconst data = item.json;\nif (data.IsErroredOnProcessing) {\n  const msg = Array.isArray(data.ErrorMessage) ? data.ErrorMessage.join(' ') : (data.ErrorMessage || 'OCR failed');\n  throw new Error(msg);\n}\nconst text = (data.ParsedResults || []).map(p => p.ParsedText || '').filter(Boolean).join('\\n\\n').trim();\nif (!text) throw new Error('No text extracted from document');\nreturn [{ json: { documentText: text.slice(0, 120000) } }];"
+      },
+      "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+      "name": "Extract OCR Text",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [560, 0]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "key",
+              "value": "YOUR_GEMINI_API_KEY"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"contents\": [{\n    \"role\": \"user\",\n    \"parts\": [{\n      \"text\": \"You are a legal document analyst for LawPal (Pakistan / Punjab focus). Analyze the legal document and return ONLY one valid JSON object with keys explanation, urdu, sections, glossary.\\n\\nStrict rules:\\n- explanation / urdu: overall document summary only.\\n- sections: ONLY real sections/clauses/articles from the document. Each item is {title, content} where title is the section heading and content explains THAT section. Do NOT put glossary terms, definitions, parties, dates, or advice in sections.\\n- glossary: ONLY legal vocabulary terms as {term, definition}. Do NOT put section numbers, clause explanations, summaries, or advice in glossary.\\n- Never duplicate content across sections and glossary.\\n- Return 4-8 sections (or fewer if fewer real sections) and 5-10 glossary terms.\\n- Keep strings on single lines.\\n\\nDocument:\\n\" + $json.documentText\n    }]\n  }],\n  \"generationConfig\": {\n    \"temperature\": 0.2,\n    \"maxOutputTokens\": 4096,\n    \"responseMimeType\": \"application/json\"\n  }\n}",
+        "options": {
+          "timeout": 120000
+        }
+      },
+      "id": "d4e5f6a7-b8c9-0123-defa-234567890123",
+      "name": "Gemini Analyze",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [840, 0]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "const data = $input.first().json;\nconst raw = (data.candidates?.[0]?.content?.parts || []).map(p => p.text || '').join('').trim();\nif (!raw) throw new Error('Empty Gemini response');\nlet cleaned = raw.replace(/^```(?:json)?\\s*/i, '').replace(/\\s*```$/, '');\nconst parsed = JSON.parse(cleaned);\nconst sections = (Array.isArray(parsed.sections) ? parsed.sections : []).map((s) => ({ title: String(s?.title || s?.name || s?.heading || '').trim(), content: String(s?.content || s?.explanation || s?.text || '').trim() })).filter((s) => s.title && s.content).filter((s) => !/^(glossary|definition|term)\\b/i.test(s.title));\nconst glossary = (Array.isArray(parsed.glossary) ? parsed.glossary : []).map((g) => ({ term: String(g?.term || g?.word || g?.title || '').trim(), definition: String(g?.definition || g?.meaning || g?.content || '').trim() })).filter((g) => g.term && g.definition).filter((g) => !/^(section|clause|article|chapter)\\s*\\d+/i.test(g.term));\nreturn [{ json: { success: true, explanation: typeof parsed.explanation === 'string' ? parsed.explanation : '', urdu: typeof parsed.urdu === 'string' ? parsed.urdu : '', sections, glossary } }];"
+      },
+      "id": "e5f6a7b8-c9d0-1234-efab-345678901234",
+      "name": "Parse Analysis",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1120, 0]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ $json }}",
+        "options": {
+          "responseCode": 200,
+          "responseHeaders": {
+            "entries": [
+              {
+                "name": "Access-Control-Allow-Origin",
+                "value": "*"
+              }
+            ]
+          }
+        }
+      },
+      "id": "f6a7b8c9-d0e1-2345-fabc-456789012345",
+      "name": "Respond",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [1400, 0]
+    }
+  ],
+  "connections": {
+    "Document Upload": {
+      "main": [
+        [
+          {
+            "node": "OCR Space",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OCR Space": {
+      "main": [
+        [
+          {
+            "node": "Extract OCR Text",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract OCR Text": {
+      "main": [
+        [
+          {
+            "node": "Gemini Analyze",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gemini Analyze": {
+      "main": [
+        [
+          {
+            "node": "Parse Analysis",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse Analysis": {
+      "main": [
+        [
+          {
+            "node": "Respond",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "meta": {
+    "templateCredsSetupCompleted": true
+  },
+  "pinData": {},
+  "tags": []
+}

@@ -1,0 +1,496 @@
+.women-dedicated-container {
+  width: 100%;
+  padding: 24px;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #FED7AA 0%, #FDE68A 50%, #FCD34D 100%);
+  color: #1a1a1a;
+}
+
+.back-button {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  transition: all 0.3s ease;
+}
+
+.back-button:hover {
+  background: rgba(255, 255, 255, 0.3);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Header Section */
+.women-header {
+  margin-bottom: 32px;
+}
+
+.women-title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 12px;
+  color: #B45309;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.women-subtitle {
+  font-size: 18px;
+  color: #78350F;
+  line-height: 1.6;
+}
+
+/* Hero Section */
+.women-hero {
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  padding: 32px;
+  margin-bottom: 32px;
+  color: #78350F;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.hero-content {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.hero-icon-wrapper {
+  width: 64px;
+  height: 64px;
+  background: rgba(217, 119, 6, 0.15);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.hero-icon {
+  width: 32px;
+  height: 32px;
+  color: #D97706;
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.hero-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.hero-description {
+  font-size: 16px;
+  color: #78350F;
+}
+
+.hero-body {
+  color: #92400E;
+  line-height: 1.8;
+  font-size: 15px;
+}
+
+/* Section Styles */
+.women-section {
+  margin-bottom: 32px;
+}
+
+.section-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 24px;
+  color: #B45309;
+}
+
+/* Services Grid */
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 24px;
+}
+
+.service-card {
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.service-card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+.service-icon-wrapper {
+  width: 48px;
+  height: 48px;
+  background: rgba(217, 119, 6, 0.1);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.service-icon {
+  width: 24px;
+  height: 24px;
+  color: #D97706;
+}
+
+.service-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+}
+
+.service-description {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.6;
+}
+
+/* Lawyers Grid */
+.lawyers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+.lawyer-card {
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.lawyer-card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+.lawyer-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.lawyer-avatar {
+  width: 64px;
+  height: 64px;
+  background: linear-gradient(135deg, #D97706, #F59E0B);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+.lawyer-info {
+  flex: 1;
+}
+
+.lawyer-name {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 4px;
+}
+
+.lawyer-specialization {
+  font-size: 14px;
+  color: #666;
+}
+
+.lawyer-details {
+  margin-bottom: 16px;
+}
+
+.lawyer-detail {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.detail-label {
+  font-weight: 500;
+  color: #333;
+}
+
+.lawyer-description {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
+
+.book-consultation-btn {
+  width: 100%;
+  padding: 12px 16px;
+  background: linear-gradient(135deg, #D97706, #F59E0B);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(217, 119, 6, 0.3);
+}
+
+.book-consultation-btn:hover {
+  background: linear-gradient(135deg, #B45309, #D97706);
+  box-shadow: 0 4px 12px rgba(217, 119, 6, 0.4);
+  transform: translateY(-2px);
+}
+
+.loading-message,
+.no-lawyers-message {
+  text-align: center;
+  padding: 40px;
+  color: #78350F;
+  font-size: 16px;
+}
+
+/* Support Section */
+.support-section {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 32px;
+  color: #1a1a1a;
+}
+
+.support-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.support-icon-wrapper {
+  width: 80px;
+  height: 80px;
+  background: rgba(217, 119, 6, 0.1);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.support-icon {
+  width: 40px;
+  height: 40px;
+  color: #D97706;
+}
+
+.support-text {
+  flex: 1;
+}
+
+.support-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+}
+
+.support-description {
+  color: #666;
+  line-height: 1.6;
+}
+
+/* Helplines Section */
+.helplines-section {
+  margin-bottom: 32px;
+}
+
+.helplines-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #1a1a1a;
+  margin-bottom: 16px;
+}
+
+.helplines-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.helpline-card {
+  background: rgba(217, 119, 6, 0.1);
+  border-radius: 12px;
+  padding: 20px;
+  border: 2px solid #D97706;
+  transition: all 0.3s ease;
+}
+
+.helpline-card.featured {
+  background: rgba(217, 119, 6, 0.1);
+}
+
+.helpline-card:hover {
+  background: rgba(217, 119, 6, 0.15);
+  transform: translateY(-2px);
+  border-color: #F59E0B;
+  box-shadow: 0 4px 12px rgba(217, 119, 6, 0.2);
+}
+
+.helpline-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.helpline-icon {
+  width: 20px;
+  height: 20px;
+  color: #D97706;
+}
+
+.helpline-name {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.helpline-number {
+  display: block;
+  color: #D97706;
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.helpline-type {
+  font-size: 12px;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.helpline-desc {
+  font-size: 12px;
+  color: #555;
+  line-height: 1.5;
+}
+
+/* Emergency Section */
+.emergency-section {
+  margin-top: 32px;
+}
+
+.emergency-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.emergency-card {
+  background: rgba(217, 119, 6, 0.05);
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid rgba(217, 119, 6, 0.2);
+  transition: all 0.3s ease;
+}
+
+.emergency-card:hover {
+  background: rgba(217, 119, 6, 0.1);
+  border-color: rgba(217, 119, 6, 0.4);
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(217, 119, 6, 0.2);
+}
+
+.emergency-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.emergency-icon {
+  width: 20px;
+  height: 20px;
+  color: #D97706;
+}
+
+.emergency-name {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.emergency-number {
+  display: block;
+  color: #D97706;
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.emergency-type {
+  font-size: 12px;
+  color: #666;
+  margin-top: 4px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .women-dedicated-container {
+    padding: 16px;
+  }
+
+  .women-title {
+    font-size: 24px;
+  }
+
+  .women-subtitle {
+    font-size: 16px;
+  }
+
+  .hero-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-title {
+    font-size: 20px;
+  }
+
+  .services-grid,
+  .lawyers-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .helplines-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .emergency-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .support-header {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+

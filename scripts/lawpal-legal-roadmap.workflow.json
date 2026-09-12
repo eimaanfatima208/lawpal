@@ -1,0 +1,145 @@
+{
+  "id": "LawPalLegalRoadmap001",
+  "name": "LawPal Legal Roadmap Generator",
+  "active": false,
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "legal-roadmap",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "r1a2b3c4-d5e6-7890-abcd-ef1234567890",
+      "name": "Roadmap Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [0, 0],
+      "webhookId": "lawpal-legal-roadmap"
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "const body = $input.first().json;\nconst problem = String(body.problem || body.description || '').trim();\nif (problem.length < 10) {\n  throw new Error('Please describe your legal problem in more detail (at least a short paragraph).');\n}\nconst city = String(body.city || 'Lahore').trim();\nconst gender = String(body.gender || 'not_specified').trim().toLowerCase();\nconst userName = String(body.userName || body.user_name || 'User').trim();\n\nconst prompt = `You are LawPal's Pakistan / Punjab legal roadmap assistant.\\nAnalyze ONLY the user's problem. Never invent facts, dates, case numbers, or guarantees.\\nReturn ONLY one valid JSON object with exactly these fields:\\n{\\n  \\\"case_title\\\": \\\"short title\\\",\\n  \\\"category\\\": \\\"family|criminal|cybercrime|civil|labour|harassment|property|other\\\",\\n  \\\"urgency\\\": \\\"low|medium|high|critical\\\",\\n  \\\"summary\\\": \\\"2-3 sentence plain-language summary\\\",\\n  \\\"steps\\\": [{\\\"order\\\":1,\\\"title\\\":\\\"\\\",\\\"detail\\\":\\\"\\\"}],\\n  \\\"applicable_sections\\\": [{\\\"section\\\":\\\"law/section code\\\",\\\"title\\\":\\\"short name\\\",\\\"why\\\":\\\"why it may apply based only on stated facts\\\"}],\\n  \\\"where_to_file\\\": \\\"Family Court / Police Station / FIA Cybercrime / Union Council / Wafaqi Mohtasib / other — pick what fits\\\",\\n  \\\"how_to_file\\\": [\\\"short step 1\\\",\\\"short step 2\\\"],\\n  \\\"complaint_draft_en\\\": \\\"first-person English complaint draft from the user's story\\\",\\n  \\\"complaint_draft_ur\\\": \\\"same complaint in Urdu\\\",\\n  \\\"documents\\\": [{\\\"name\\\":\\\"\\\",\\\"why_needed\\\":\\\"\\\",\\\"priority\\\":\\\"required|recommended\\\"}],\\n  \\\"contact_keys\\\": [\\\"police\\\",\\\"rescue\\\",\\\"women\\\",\\\"cyber\\\",\\\"child\\\",\\\"ambulance\\\",\\\"fire\\\"],\\n  \\\"timeline_estimate\\\": \\\"rough range only, not exact dates\\\",\\n  \\\"disclaimer\\\": \\\"This is guidance only and not a substitute for a licensed lawyer or official agency.\\\"\\n}\\n\\nRules for contact_keys (choose only those relevant to THIS situation):\\n- police: violence, crime, threats, FIR needed\\n- rescue / ambulance: injury or medical emergency\\n- women: women safety, domestic issues, harassment of women\\n- child: child involved\\n- cyber: online harassment, hacking, blackmail, fake profiles, PECA offences\\n- fire: fire / property damage by fire\\nAlways include at least one relevant contact_key.\\n\\nUser name: ${userName}\\nUser gender: ${gender}\\nCity: ${city}\\nUser problem:\\n${problem}`;\n\nreturn [{\n  json: {\n    problem,\n    city,\n    gender,\n    userName,\n    geminiBody: {\n      contents: [{ role: 'user', parts: [{ text: prompt }] }],\n      generationConfig: {\n        temperature: 0.2,\n        maxOutputTokens: 4096,\n        responseMimeType: 'application/json'\n      }\n    }\n  }\n}];"
+      },
+      "id": "r2b3c4d5-e6f7-8901-bcde-f12345678901",
+      "name": "Build Prompt",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [280, 0]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "key",
+              "value": "YOUR_GEMINI_API_KEY"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ $json.geminiBody }}",
+        "options": {
+          "timeout": 120000
+        }
+      },
+      "id": "r3c4d5e6-f7a8-9012-cdef-123456789012",
+      "name": "Gemini Generate",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [560, 0]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "const data = $input.first().json;\nconst raw = (data.candidates?.[0]?.content?.parts || []).map(p => p.text || '').join('').trim();\nif (!raw) throw new Error('Empty Gemini response');\n\nfunction repairJsonText(text) {\n  let s = String(text || '').trim();\n  s = s.replace(/,\\s*([}\\]])/g, '$1');\n  let inString = false;\n  let escaped = false;\n  let out = '';\n  for (let i = 0; i < s.length; i++) {\n    const ch = s[i];\n    if (inString) {\n      if (escaped) { out += ch; escaped = false; continue; }\n      if (ch === '\\\\') { out += ch; escaped = true; continue; }\n      if (ch === '\"') { inString = false; out += ch; continue; }\n      if (ch === '\\n' || ch === '\\r' || ch === '\\t') { out += ' '; continue; }\n      out += ch;\n    } else {\n      if (ch === '\"') inString = true;\n      out += ch;\n    }\n  }\n  return out;\n}\n\nfunction parseGeminiJson(text) {\n  const cleaned = String(text || '').replace(/^```(?:json)?\\s*/i, '').replace(/\\s*```$/, '').trim();\n  const candidates = [cleaned, repairJsonText(cleaned)];\n  for (const candidate of candidates) {\n    try { return JSON.parse(candidate); } catch (_) {}\n    const start = candidate.indexOf('{');\n    if (start === -1) continue;\n    let depth = 0, inString = false, escaped = false;\n    for (let i = start; i < candidate.length; i++) {\n      const ch = candidate[i];\n      if (escaped) escaped = false;\n      else if (ch === '\\\\') escaped = true;\n      else if (ch === '\"') inString = !inString;\n      else if (!inString) {\n        if (ch === '{') depth++;\n        if (ch === '}') {\n          depth--;\n          if (depth === 0) {\n            try { return JSON.parse(candidate.slice(start, i + 1)); } catch (_) { break; }\n          }\n        }\n      }\n    }\n  }\n  throw new Error('Could not parse Gemini JSON');\n}\n\nconst parsed = parseGeminiJson(raw);\nif (!parsed.case_title && !parsed.steps) {\n  throw new Error('Gemini returned incomplete roadmap');\n}\n\nreturn [{ json: parsed }];"
+      },
+      "id": "r4d5e6f7-a8b9-0123-defa-234567890123",
+      "name": "Parse Roadmap",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [840, 0]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ $json }}",
+        "options": {
+          "responseCode": 200,
+          "responseHeaders": {
+            "entries": [
+              {
+                "name": "Access-Control-Allow-Origin",
+                "value": "*"
+              }
+            ]
+          }
+        }
+      },
+      "id": "r5e6f7a8-b9c0-1234-efab-345678901234",
+      "name": "Respond",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [1120, 0]
+    }
+  ],
+  "connections": {
+    "Roadmap Webhook": {
+      "main": [
+        [
+          {
+            "node": "Build Prompt",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Build Prompt": {
+      "main": [
+        [
+          {
+            "node": "Gemini Generate",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gemini Generate": {
+      "main": [
+        [
+          {
+            "node": "Parse Roadmap",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse Roadmap": {
+      "main": [
+        [
+          {
+            "node": "Respond",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "meta": {
+    "templateCredsSetupCompleted": true
+  },
+  "pinData": {},
+  "tags": []
+}

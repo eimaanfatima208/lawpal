@@ -1,0 +1,632 @@
+[
+  {
+    "id": "finance-1",
+    "title": "BANK OF PUNJAB ACT, 1989",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XII of 1989",
+    "datePublished": "1989-07-30",
+    "lastUpdated": "1989-07-30",
+    "file": "/legal-documents/finance/01_BANK_OF_PUNJAB_ACT_1989.pdf"
+  },
+  {
+    "id": "finance-2",
+    "title": "PAKISTAN DAY MEMORIAL CESS PUNJAB ACT, 1964",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XXIX of 1964",
+    "datePublished": "1964-04-19",
+    "lastUpdated": "2023-05-09",
+    "file": "/legal-documents/finance/02_PAKISTAN_DAY_MEMORIAL_CESS_PUNJAB_ACT_1964.pdf"
+  },
+  {
+    "id": "finance-3",
+    "title": "PUNJAB ADHOC PUBLIC ACCOUNTS COMMITTEE (COMPOSITION AND FUNCTIONS) ORDINANCE, 2002",
+    "department": "Finance",
+    "category": "Ordinance",
+    "reference": "Ordinance XLV of 2002",
+    "datePublished": "2002-08-20",
+    "lastUpdated": "2002-08-20",
+    "file": "/legal-documents/finance/03_PUNJAB_ADHOC_PUBLIC_ACCOUNTS_COMMITTEE_COMPOSITION_AND_FUNCTIONS_ORDINANCE_2002.pdf"
+  },
+  {
+    "id": "finance-4",
+    "title": "PUNJAB FINANCE ACT 1977",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XV of 1977",
+    "datePublished": "1977-06-27",
+    "lastUpdated": "2025-09-09",
+    "file": "/legal-documents/finance/04_PUNJAB_FINANCE_ACT_1977.pdf"
+  },
+  {
+    "id": "finance-5",
+    "title": "PUNJAB FINANCE ACT 1985",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act I of 1985",
+    "datePublished": "1985-06-11",
+    "lastUpdated": "1985-06-11",
+    "file": "/legal-documents/finance/05_PUNJAB_FINANCE_ACT_1985.pdf"
+  },
+  {
+    "id": "finance-6",
+    "title": "PUNJAB FINANCE ACT 1986",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act IV of 1986",
+    "datePublished": "1986-06-13",
+    "lastUpdated": "1986-06-13",
+    "file": "/legal-documents/finance/06_PUNJAB_FINANCE_ACT_1986.pdf"
+  },
+  {
+    "id": "finance-7",
+    "title": "PUNJAB FINANCE ACT 1998",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act VII of 1998",
+    "datePublished": "1998-06-29",
+    "lastUpdated": "1998-06-29",
+    "file": "/legal-documents/finance/07_PUNJAB_FINANCE_ACT_1998.pdf"
+  },
+  {
+    "id": "finance-8",
+    "title": "PUNJAB FINANCE ACT 1999",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act IX of 1999",
+    "datePublished": "1999-06-25",
+    "lastUpdated": "1999-06-25",
+    "file": "/legal-documents/finance/08_PUNJAB_FINANCE_ACT_1999.pdf"
+  },
+  {
+    "id": "finance-9",
+    "title": "PUNJAB FINANCE ACT 2003",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XI of 2003",
+    "datePublished": "2003-06-26",
+    "lastUpdated": "2003-06-26",
+    "file": "/legal-documents/finance/09_PUNJAB_FINANCE_ACT_2003.pdf"
+  },
+  {
+    "id": "finance-10",
+    "title": "PUNJAB FINANCE ACT 2005",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act VII of 2005",
+    "datePublished": "2005-06-28",
+    "lastUpdated": "2005-06-28",
+    "file": "/legal-documents/finance/10_PUNJAB_FINANCE_ACT_2005.pdf"
+  },
+  {
+    "id": "finance-11",
+    "title": "PUNJAB FINANCE ACT 2006",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act V of 2006",
+    "datePublished": "2006-06-29",
+    "lastUpdated": "2006-06-29",
+    "file": "/legal-documents/finance/11_PUNJAB_FINANCE_ACT_2006.pdf"
+  },
+  {
+    "id": "finance-12",
+    "title": "PUNJAB FINANCE ACT 2007",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act IV of 2007",
+    "datePublished": "2007-06-29",
+    "lastUpdated": "2007-06-29",
+    "file": "/legal-documents/finance/12_PUNJAB_FINANCE_ACT_2007.pdf"
+  },
+  {
+    "id": "finance-13",
+    "title": "PUNJAB FINANCE ACT 2008",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act I of 2008",
+    "datePublished": "2008-06-26",
+    "lastUpdated": "2008-06-26",
+    "file": "/legal-documents/finance/13_PUNJAB_FINANCE_ACT_2008.pdf"
+  },
+  {
+    "id": "finance-14",
+    "title": "PUNJAB FINANCE ACT 2009",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act III of 2009",
+    "datePublished": "2009-06-28",
+    "lastUpdated": "2009-06-28",
+    "file": "/legal-documents/finance/14_PUNJAB_FINANCE_ACT_2009.pdf"
+  },
+  {
+    "id": "finance-15",
+    "title": "PUNJAB FINANCE ACT 2010",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act VI of 2010",
+    "datePublished": "2010-06-27",
+    "lastUpdated": "2019-01-15",
+    "file": "/legal-documents/finance/15_PUNJAB_FINANCE_ACT_2010.pdf"
+  },
+  {
+    "id": "finance-16",
+    "title": "PUNJAB FINANCE ACT 2011",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XV of 2011",
+    "datePublished": "2011-06-26",
+    "lastUpdated": "2011-06-26",
+    "file": "/legal-documents/finance/16_PUNJAB_FINANCE_ACT_2011.pdf"
+  },
+  {
+    "id": "finance-17",
+    "title": "PUNJAB FINANCE ACT 2013",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XVI of 2013",
+    "datePublished": "2013-06-28",
+    "lastUpdated": "2013-06-28",
+    "file": "/legal-documents/finance/17_PUNJAB_FINANCE_ACT_2013.pdf"
+  },
+  {
+    "id": "finance-18",
+    "title": "PUNJAB FINANCE ACT 2014",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XVII of 2014",
+    "datePublished": "2014-06-25",
+    "lastUpdated": "2023-03-15",
+    "file": "/legal-documents/finance/18_PUNJAB_FINANCE_ACT_2014.pdf"
+  },
+  {
+    "id": "finance-19",
+    "title": "PUNJAB FINANCE ACT 2015",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XXIX of 2015",
+    "datePublished": "2015-06-25",
+    "lastUpdated": "2015-06-25",
+    "file": "/legal-documents/finance/19_PUNJAB_FINANCE_ACT_2015.pdf"
+  },
+  {
+    "id": "finance-20",
+    "title": "PUNJAB FINANCE ACT 2016",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XXXV of 2016",
+    "datePublished": "2016-06-28",
+    "lastUpdated": "2019-07-18",
+    "file": "/legal-documents/finance/20_PUNJAB_FINANCE_ACT_2016.pdf"
+  },
+  {
+    "id": "finance-21",
+    "title": "PUNJAB FINANCE ACT 2017",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XII of 2017",
+    "datePublished": "2017-06-15",
+    "lastUpdated": "2017-06-15",
+    "file": "/legal-documents/finance/21_PUNJAB_FINANCE_ACT_2017.pdf"
+  },
+  {
+    "id": "finance-22",
+    "title": "PUNJAB FINANCE ACT 2019",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "XV of 2019",
+    "datePublished": "2019-06-27",
+    "lastUpdated": "2019-12-31",
+    "file": "/legal-documents/finance/22_PUNJAB_FINANCE_ACT_2019.pdf"
+  },
+  {
+    "id": "finance-23",
+    "title": "PUNJAB FINANCE ACT 2020",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act VIII of 2020",
+    "datePublished": "2020-06-28",
+    "lastUpdated": "2020-06-28",
+    "file": "/legal-documents/finance/23_PUNJAB_FINANCE_ACT_2020.pdf"
+  },
+  {
+    "id": "finance-24",
+    "title": "PUNJAB FINANCE ACT 2021",
+    "department": "Finance",
+    "category": "ACT",
+    "reference": "ACT XIX of 2021",
+    "datePublished": "2021-06-29",
+    "lastUpdated": "2021-06-29",
+    "file": "/legal-documents/finance/24_PUNJAB_FINANCE_ACT_2021.pdf"
+  },
+  {
+    "id": "finance-25",
+    "title": "PUNJAB FINANCE ACT 2022",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act IX of 2022",
+    "datePublished": "2022-06-23",
+    "lastUpdated": "2022-06-23",
+    "file": "/legal-documents/finance/25_PUNJAB_FINANCE_ACT_2022.pdf"
+  },
+  {
+    "id": "finance-26",
+    "title": "PUNJAB FINANCE ACT 2024",
+    "department": "Finance",
+    "category": "ACT",
+    "reference": "ACT VIII OF 2024",
+    "datePublished": "2024-06-26",
+    "lastUpdated": "2024-06-26",
+    "file": "/legal-documents/finance/26_PUNJAB_FINANCE_ACT_2024.pdf"
+  },
+  {
+    "id": "finance-27",
+    "title": "PUNJAB FINANCE ACT, 1963",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act IX of 1963",
+    "datePublished": "1963-06-30",
+    "lastUpdated": "1963-06-30",
+    "file": "/legal-documents/finance/27_PUNJAB_FINANCE_ACT_1963.pdf"
+  },
+  {
+    "id": "finance-28",
+    "title": "PUNJAB FINANCE ACT, 1964",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XXXIV of 1964",
+    "datePublished": "1964-06-28",
+    "lastUpdated": "2026-01-22",
+    "file": "/legal-documents/finance/28_PUNJAB_FINANCE_ACT_1964.pdf"
+  },
+  {
+    "id": "finance-29",
+    "title": "PUNJAB FINANCE ACT, 1965",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act I of 1965",
+    "datePublished": "1965-06-30",
+    "lastUpdated": "1965-06-30",
+    "file": "/legal-documents/finance/29_PUNJAB_FINANCE_ACT_1965.pdf"
+  },
+  {
+    "id": "finance-30",
+    "title": "PUNJAB FINANCE ACT, 1966",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act I of 1966",
+    "datePublished": "1966-06-30",
+    "lastUpdated": "1966-06-30",
+    "file": "/legal-documents/finance/30_PUNJAB_FINANCE_ACT_1966.pdf"
+  },
+  {
+    "id": "finance-31",
+    "title": "PUNJAB FINANCE ACT, 1967",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act IV of 1967",
+    "datePublished": "1967-06-30",
+    "lastUpdated": "1967-06-30",
+    "file": "/legal-documents/finance/31_PUNJAB_FINANCE_ACT_1967.pdf"
+  },
+  {
+    "id": "finance-32",
+    "title": "PUNJAB FINANCE ACT, 1968",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act III of 1968",
+    "datePublished": "1968-06-29",
+    "lastUpdated": "1968-06-29",
+    "file": "/legal-documents/finance/32_PUNJAB_FINANCE_ACT_1968.pdf"
+  },
+  {
+    "id": "finance-33",
+    "title": "PUNJAB FINANCE ACT, 1972",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act I of 1972",
+    "datePublished": "1972-06-29",
+    "lastUpdated": "1972-06-29",
+    "file": "/legal-documents/finance/33_PUNJAB_FINANCE_ACT_1972.pdf"
+  },
+  {
+    "id": "finance-34",
+    "title": "PUNJAB FINANCE ACT, 1973",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XIV of 1973",
+    "datePublished": "1973-06-28",
+    "lastUpdated": "1973-06-28",
+    "file": "/legal-documents/finance/34_PUNJAB_FINANCE_ACT_1973.pdf"
+  },
+  {
+    "id": "finance-35",
+    "title": "PUNJAB FINANCE ACT, 1974",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act X of 1974",
+    "datePublished": "1974-06-28",
+    "lastUpdated": "1974-06-28",
+    "file": "/legal-documents/finance/35_PUNJAB_FINANCE_ACT_1974.pdf"
+  },
+  {
+    "id": "finance-36",
+    "title": "PUNJAB FINANCE ACT, 1975",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XL of 1975",
+    "datePublished": "1975-06-28",
+    "lastUpdated": "1975-06-28",
+    "file": "/legal-documents/finance/36_PUNJAB_FINANCE_ACT_1975.pdf"
+  },
+  {
+    "id": "finance-37",
+    "title": "PUNJAB FINANCE ACT, 1987",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act II of 1987",
+    "datePublished": "1987-06-28",
+    "lastUpdated": "1987-06-28",
+    "file": "/legal-documents/finance/37_PUNJAB_FINANCE_ACT_1987.pdf"
+  },
+  {
+    "id": "finance-38",
+    "title": "PUNJAB FINANCE ACT, 1990",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act I of 1990",
+    "datePublished": "1990-06-28",
+    "lastUpdated": "1990-06-28",
+    "file": "/legal-documents/finance/38_PUNJAB_FINANCE_ACT_1990.pdf"
+  },
+  {
+    "id": "finance-39",
+    "title": "PUNJAB FINANCE ACT, 1992",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act VI of 1992",
+    "datePublished": "1992-06-28",
+    "lastUpdated": "1992-06-28",
+    "file": "/legal-documents/finance/39_PUNJAB_FINANCE_ACT_1992.pdf"
+  },
+  {
+    "id": "finance-40",
+    "title": "PUNJAB FINANCE ACT, 1994",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act VI of 1994",
+    "datePublished": "1994-06-28",
+    "lastUpdated": "1994-06-28",
+    "file": "/legal-documents/finance/40_PUNJAB_FINANCE_ACT_1994.pdf"
+  },
+  {
+    "id": "finance-41",
+    "title": "PUNJAB FINANCE ACT, 1995",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act VI of 1995",
+    "datePublished": "1995-06-26",
+    "lastUpdated": "1995-06-26",
+    "file": "/legal-documents/finance/41_PUNJAB_FINANCE_ACT_1995.pdf"
+  },
+  {
+    "id": "finance-42",
+    "title": "PUNJAB FINANCE ACT, 1996",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act V of 1996",
+    "datePublished": "1996-06-26",
+    "lastUpdated": "1996-06-26",
+    "file": "/legal-documents/finance/42_PUNJAB_FINANCE_ACT_1996.pdf"
+  },
+  {
+    "id": "finance-43",
+    "title": "PUNJAB FINANCE ACT, 1997",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act IX of 1997",
+    "datePublished": "1997-06-30",
+    "lastUpdated": "1997-06-30",
+    "file": "/legal-documents/finance/43_PUNJAB_FINANCE_ACT_1997.pdf"
+  },
+  {
+    "id": "finance-44",
+    "title": "PUNJAB FINANCE ACT, 2004",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XIX of 2004",
+    "datePublished": "2004-06-30",
+    "lastUpdated": "2004-06-30",
+    "file": "/legal-documents/finance/44_PUNJAB_FINANCE_ACT_2004.pdf"
+  },
+  {
+    "id": "finance-45",
+    "title": "PUNJAB FINANCE ACT, 2012",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XLI of 2012",
+    "datePublished": "2012-06-24",
+    "lastUpdated": "2012-06-24",
+    "file": "/legal-documents/finance/45_PUNJAB_FINANCE_ACT_2012.pdf"
+  },
+  {
+    "id": "finance-46",
+    "title": "PUNJAB FINANCE ORDINANCE 2000",
+    "department": "Finance",
+    "category": "Ordinance",
+    "reference": "Ordinance III of 2000",
+    "datePublished": "2000-06-29",
+    "lastUpdated": "2000-06-29",
+    "file": "/legal-documents/finance/46_PUNJAB_FINANCE_ORDINANCE_2000.pdf"
+  },
+  {
+    "id": "finance-47",
+    "title": "PUNJAB FINANCE ORDINANCE 2001",
+    "department": "Finance",
+    "category": "Ordinance",
+    "reference": "Ordinance VI of 2001",
+    "datePublished": "2001-06-29",
+    "lastUpdated": "2001-06-29",
+    "file": "/legal-documents/finance/47_PUNJAB_FINANCE_ORDINANCE_2001.pdf"
+  },
+  {
+    "id": "finance-48",
+    "title": "PUNJAB FINANCE ORDINANCE 2002",
+    "department": "Finance",
+    "category": "Ordinance",
+    "reference": "Ordinance XXXVII of 2002",
+    "datePublished": "2002-07-24",
+    "lastUpdated": "2002-07-24",
+    "file": "/legal-documents/finance/48_PUNJAB_FINANCE_ORDINANCE_2002.pdf"
+  },
+  {
+    "id": "finance-49",
+    "title": "PUNJAB FINANCE ORDINANCE, 1969",
+    "department": "Finance",
+    "category": "Ordinance",
+    "reference": "Ordinance VII of 1969",
+    "datePublished": "1969-06-30",
+    "lastUpdated": "1969-06-30",
+    "file": "/legal-documents/finance/49_PUNJAB_FINANCE_ORDINANCE_1969.pdf"
+  },
+  {
+    "id": "finance-50",
+    "title": "PUNJAB FINANCE ORDINANCE, 1970",
+    "department": "Finance",
+    "category": "Ordinance",
+    "reference": "Ordinance XXI of 1970",
+    "datePublished": "1970-06-30",
+    "lastUpdated": "1970-06-30",
+    "file": "/legal-documents/finance/50_PUNJAB_FINANCE_ORDINANCE_1970.pdf"
+  },
+  {
+    "id": "finance-51",
+    "title": "PUNJAB FINANCE ORDINANCE, 1971",
+    "department": "Finance",
+    "category": "Ordinance",
+    "reference": "Ordinance XI of 1971",
+    "datePublished": "1971-06-30",
+    "lastUpdated": "1971-06-30",
+    "file": "/legal-documents/finance/51_PUNJAB_FINANCE_ORDINANCE_1971.pdf"
+  },
+  {
+    "id": "finance-52",
+    "title": "PUNJAB FINANCE ORDINANCE, 1978",
+    "department": "Finance",
+    "category": "Ordinance",
+    "reference": "Ordinance XIII of 1978",
+    "datePublished": "1978-06-27",
+    "lastUpdated": "1978-06-27",
+    "file": "/legal-documents/finance/52_PUNJAB_FINANCE_ORDINANCE_1978.pdf"
+  },
+  {
+    "id": "finance-53",
+    "title": "PUNJAB FINANCE ORDINANCE, 1980",
+    "department": "Finance",
+    "category": "Ordinance",
+    "reference": "Ordinance VIII of 1980",
+    "datePublished": "1980-06-21",
+    "lastUpdated": "1980-06-21",
+    "file": "/legal-documents/finance/53_PUNJAB_FINANCE_ORDINANCE_1980.pdf"
+  },
+  {
+    "id": "finance-54",
+    "title": "PUNJAB FINANCE ORDINANCE, 1981",
+    "department": "Finance",
+    "category": "Ordinance",
+    "reference": "Ordinance XIII of 1981",
+    "datePublished": "1981-06-29",
+    "lastUpdated": "1981-06-29",
+    "file": "/legal-documents/finance/54_PUNJAB_FINANCE_ORDINANCE_1981.pdf"
+  },
+  {
+    "id": "finance-55",
+    "title": "PUNJAB FINANCIAL ADVISORY SERVICES ACT 2025",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XL of 2025",
+    "datePublished": "2025-05-28",
+    "lastUpdated": "2025-05-28",
+    "file": "/legal-documents/finance/55_PUNJAB_FINANCIAL_ADVISORY_SERVICES_ACT_2025.pdf"
+  },
+  {
+    "id": "finance-56",
+    "title": "PUNJAB GENERAL PROVIDENT INVESTMENT FUND ACT 2009",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act V of 2009",
+    "datePublished": "2009-07-07",
+    "lastUpdated": "2023-03-15",
+    "file": "/legal-documents/finance/56_PUNJAB_GENERAL_PROVIDENT_INVESTMENT_FUND_ACT_2009.pdf"
+  },
+  {
+    "id": "finance-57",
+    "title": "PUNJAB INFRASTRUCTURE DEVELOPMENT CESS ACT 2015",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XXX of 2015",
+    "datePublished": "2015-06-25",
+    "lastUpdated": "2025-08-27",
+    "file": "/legal-documents/finance/57_PUNJAB_INFRASTRUCTURE_DEVELOPMENT_CESS_ACT_2015.pdf"
+  },
+  {
+    "id": "finance-58",
+    "title": "PUNJAB PENSION FUND ACT 2007",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act I of 2007",
+    "datePublished": "2007-03-28",
+    "lastUpdated": "2023-03-15",
+    "file": "/legal-documents/finance/58_PUNJAB_PENSION_FUND_ACT_2007.pdf"
+  },
+  {
+    "id": "finance-59",
+    "title": "PUNJAB PUBLIC FINANCIAL MANAGEMENT ACT 2022",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "XXXVII of 2022",
+    "datePublished": "2022-12-01",
+    "lastUpdated": "2022-12-01",
+    "file": "/legal-documents/finance/59_PUNJAB_PUBLIC_FINANCIAL_MANAGEMENT_ACT_2022.pdf"
+  },
+  {
+    "id": "finance-60",
+    "title": "PUNJAB REVENUE AUTHORITY ACT, 2012",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XLIII of 2012",
+    "datePublished": "2012-06-26",
+    "lastUpdated": "2018-12-10",
+    "file": "/legal-documents/finance/60_PUNJAB_REVENUE_AUTHORITY_ACT_2012.pdf"
+  },
+  {
+    "id": "finance-61",
+    "title": "PUNJAB SALES TAX ON SERVICES ACT 2012",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act XLII of 2012",
+    "datePublished": "2012-06-26",
+    "lastUpdated": "2025-10-22",
+    "file": "/legal-documents/finance/61_PUNJAB_SALES_TAX_ON_SERVICES_ACT_2012.pdf"
+  },
+  {
+    "id": "finance-62",
+    "title": "PUNJAB SECRETARIAT ALLOWANCE (WITHDRAWAL) ACT 1997",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act I of 1998",
+    "datePublished": "1998-01-19",
+    "lastUpdated": "1998-01-19",
+    "file": "/legal-documents/finance/62_PUNJAB_SECRETARIAT_ALLOWANCE_WITHDRAWAL_ACT_1997.pdf"
+  },
+  {
+    "id": "finance-63",
+    "title": "WEST PAKISTAN FINANCE ACT, 1962",
+    "department": "Finance",
+    "category": "Act",
+    "reference": "Act I of 1962",
+    "datePublished": "1962-07-05",
+    "lastUpdated": "1962-07-05",
+    "file": "/legal-documents/finance/63_WEST_PAKISTAN_FINANCE_ACT_1962.pdf"
+  }
+]

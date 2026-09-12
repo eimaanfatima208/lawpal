@@ -1,0 +1,11 @@
+{
+  "name": "lawpal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm run build --prefix react-frontend",
+    "start": "npm run build && node lawpal-chat-backend/server.js",
+    "start:api": "node lawpal-chat-backend/server.js",
+    "install:all": "cd react-frontend && npm install && cd ../lawpal-chat-backend && npm install"
+  }
+}

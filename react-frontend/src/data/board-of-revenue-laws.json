@@ -1,0 +1,882 @@
+[
+  {
+    "id": "board-of-revenue-1",
+    "title": "BAHAWALPUR STATE COURT OF WARDS ACT 1942",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act 1942",
+    "datePublished": "1942-09-17",
+    "lastUpdated": "2019-01-15",
+    "file": "/legal-documents/board-of-revenue/01_BAHAWALPUR_STATE_COURT_OF_WARDS_ACT_1942.pdf"
+  },
+  {
+    "id": "board-of-revenue-2",
+    "title": "CHARITABLE AND RELIGIOUS TRUSTS ACT, 1920",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XIV of 1920",
+    "datePublished": "1920-03-19",
+    "lastUpdated": "2021-11-17",
+    "file": "/legal-documents/board-of-revenue/02_CHARITABLE_AND_RELIGIOUS_TRUSTS_ACT_1920.pdf"
+  },
+  {
+    "id": "board-of-revenue-3",
+    "title": "CHOLISTAN DEVELOPMENT AUTHORITY ACT, 1976",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XIV of 1976",
+    "datePublished": "1976-07-20",
+    "lastUpdated": "2019-01-10",
+    "file": "/legal-documents/board-of-revenue/03_CHOLISTAN_DEVELOPMENT_AUTHORITY_ACT_1976.pdf"
+  },
+  {
+    "id": "board-of-revenue-4",
+    "title": "COLONIZATION OF GOVERNMENT LANDS (PUNJAB) ACT, 1912",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act V of 1912",
+    "datePublished": "1912-06-20",
+    "lastUpdated": "2021-11-17",
+    "file": "/legal-documents/board-of-revenue/04_COLONIZATION_OF_GOVERNMENT_LANDS_PUNJAB_ACT_1912.pdf"
+  },
+  {
+    "id": "board-of-revenue-5",
+    "title": "COURT FEES’ ACT, 1870",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act VII of 1870",
+    "datePublished": "1870-03-11",
+    "lastUpdated": "2024-08-06",
+    "file": "/legal-documents/board-of-revenue/05_COURT_FEES_ACT_1870.pdf"
+  },
+  {
+    "id": "board-of-revenue-6",
+    "title": "EVACUEE PROPERTY AND DISPLACED PERSONS LAWS (REPEAL) ACT, 1975",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XIV of 1975",
+    "datePublished": "1975-01-27",
+    "lastUpdated": "2022-10-19",
+    "file": "/legal-documents/board-of-revenue/06_EVACUEE_PROPERTY_AND_DISPLACED_PERSONS_LAWS_REPEAL_ACT_1975.pdf"
+  },
+  {
+    "id": "board-of-revenue-7",
+    "title": "GOVERNMENT GRANTS ACT, 1895",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XV of 1895",
+    "datePublished": "1895-10-09",
+    "lastUpdated": "2020-02-06",
+    "file": "/legal-documents/board-of-revenue/07_GOVERNMENT_GRANTS_ACT_1895.pdf"
+  },
+  {
+    "id": "board-of-revenue-8",
+    "title": "HINDU DISPOSITION OF PROPERTY ACT, 1916",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XV of 1916",
+    "datePublished": "1916-09-27",
+    "lastUpdated": "2021-11-17",
+    "file": "/legal-documents/board-of-revenue/08_HINDU_DISPOSITION_OF_PROPERTY_ACT_1916.pdf"
+  },
+  {
+    "id": "board-of-revenue-9",
+    "title": "HINDU INHERITANCE (REMOVAL OF DISABILITIES) ACT, 1928",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XII of 1928",
+    "datePublished": "1928-09-19",
+    "lastUpdated": "2022-03-10",
+    "file": "/legal-documents/board-of-revenue/09_HINDU_INHERITANCE_REMOVAL_OF_DISABILITIES_ACT_1928.pdf"
+  },
+  {
+    "id": "board-of-revenue-10",
+    "title": "LAND ACQUISITION (MINES) ACT, 1885",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XVIII of 1885",
+    "datePublished": "1885-10-28",
+    "lastUpdated": "2019-01-10",
+    "file": "/legal-documents/board-of-revenue/10_LAND_ACQUISITION_MINES_ACT_1885.pdf"
+  },
+  {
+    "id": "board-of-revenue-11",
+    "title": "LAND ACQUISITION ACT, 1894",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "I of 1894",
+    "datePublished": "1894-02-01",
+    "lastUpdated": "2020-01-30",
+    "file": "/legal-documents/board-of-revenue/11_LAND_ACQUISITION_ACT_1894.pdf"
+  },
+  {
+    "id": "board-of-revenue-12",
+    "title": "LAND IMPROVEMENT LOANS ACT, 1883",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XIX of 1883",
+    "datePublished": "1883-10-11",
+    "lastUpdated": "1883-10-11",
+    "file": "/legal-documents/board-of-revenue/12_LAND_IMPROVEMENT_LOANS_ACT_1883.pdf"
+  },
+  {
+    "id": "board-of-revenue-13",
+    "title": "LAND REFORMS ACT, 1977",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act II of 1977",
+    "datePublished": "1977-01-08",
+    "lastUpdated": "1977-01-08",
+    "file": "/legal-documents/board-of-revenue/13_LAND_REFORMS_ACT_1977.pdf"
+  },
+  {
+    "id": "board-of-revenue-14",
+    "title": "LAND REFORMS REGULATION, 1972",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Martial Law Regulation No. 115 of 1972",
+    "datePublished": "1972-03-10",
+    "lastUpdated": "1972-03-10",
+    "file": "/legal-documents/board-of-revenue/14_LAND_REFORMS_REGULATION_1972.pdf"
+  },
+  {
+    "id": "board-of-revenue-15",
+    "title": "MUSLIM FAMILY LAWS ORDINANCE, 1961",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance VIII of 1961",
+    "datePublished": "1961-03-01",
+    "lastUpdated": "2023-09-26",
+    "file": "/legal-documents/board-of-revenue/15_MUSLIM_FAMILY_LAWS_ORDINANCE_1961.pdf"
+  },
+  {
+    "id": "board-of-revenue-16",
+    "title": "PROVINCIAL INSOLVENCY ACT, 1920",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act V of 1920",
+    "datePublished": "1920-02-24",
+    "lastUpdated": "2021-11-17",
+    "file": "/legal-documents/board-of-revenue/16_PROVINCIAL_INSOLVENCY_ACT_1920.pdf"
+  },
+  {
+    "id": "board-of-revenue-17",
+    "title": "PUNJAB ABOLITION OF JAGIRS ACT, 1952",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act IX of 1952",
+    "datePublished": "1952-02-03",
+    "lastUpdated": "2023-09-19",
+    "file": "/legal-documents/board-of-revenue/17_PUNJAB_ABOLITION_OF_JAGIRS_ACT_1952.pdf"
+  },
+  {
+    "id": "board-of-revenue-18",
+    "title": "PUNJAB ACQUISITION OF LAND (HOUSING) (REPEAL) ACT, 1985",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XII of 1985",
+    "datePublished": "1985-11-12",
+    "lastUpdated": "2018-10-28",
+    "file": "/legal-documents/board-of-revenue/18_PUNJAB_ACQUISITION_OF_LAND_HOUSING_REPEAL_ACT_1985.pdf"
+  },
+  {
+    "id": "board-of-revenue-19",
+    "title": "PUNJAB ACQUISITION OF PROPERTY (RESIDENCE OF GOVERNMENT OFFICIALS) ORDINANCE, 1963",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XXV of 1963",
+    "datePublished": "1963-06-05",
+    "lastUpdated": "2023-04-16",
+    "file": "/legal-documents/board-of-revenue/19_PUNJAB_ACQUISITION_OF_PROPERTY_RESIDENCE_OF_GOVERNMENT_OFFICIALS_ORDINANCE_1963.pdf"
+  },
+  {
+    "id": "board-of-revenue-20",
+    "title": "PUNJAB ACQUISITION OF PROPERTY (WAPDA HOUSE) ORDINANCE, 1963",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XXI of 1963",
+    "datePublished": "1963-06-05",
+    "lastUpdated": "1963-06-05",
+    "file": "/legal-documents/board-of-revenue/20_PUNJAB_ACQUISITION_OF_PROPERTY_WAPDA_HOUSE_ORDINANCE_1963.pdf"
+  },
+  {
+    "id": "board-of-revenue-21",
+    "title": "PUNJAB ACQUISITION OF PROPERTY (WAPDA OFFICE) (SECOND) ORDINANCE, 1963",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XXXII of 1963",
+    "datePublished": "1963-11-08",
+    "lastUpdated": "2023-04-16",
+    "file": "/legal-documents/board-of-revenue/21_PUNJAB_ACQUISITION_OF_PROPERTY_WAPDA_OFFICE_SECOND_ORDINANCE_1963.pdf"
+  },
+  {
+    "id": "board-of-revenue-22",
+    "title": "PUNJAB ACQUISITION OF PROPERTY (WAPDA OFFICE) ORDINANCE, 1963",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XXIV of 1963",
+    "datePublished": "1963-06-05",
+    "lastUpdated": "1963-06-05",
+    "file": "/legal-documents/board-of-revenue/22_PUNJAB_ACQUISITION_OF_PROPERTY_WAPDA_OFFICE_ORDINANCE_1963.pdf"
+  },
+  {
+    "id": "board-of-revenue-23",
+    "title": "PUNJAB AGRICULTURAL INCOME TAX ACT, 1997",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act I of 1997",
+    "datePublished": "1997-06-15",
+    "lastUpdated": "2025-09-08",
+    "file": "/legal-documents/board-of-revenue/23_PUNJAB_AGRICULTURAL_INCOME_TAX_ACT_1997.pdf"
+  },
+  {
+    "id": "board-of-revenue-24",
+    "title": "PUNJAB AGRICULTURISTS' LOANS ACT, 1958",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XVII of 1958",
+    "datePublished": "1958-04-22",
+    "lastUpdated": "2023-09-20",
+    "file": "/legal-documents/board-of-revenue/24_PUNJAB_AGRICULTURISTS_LOANS_ACT_1958.pdf"
+  },
+  {
+    "id": "board-of-revenue-25",
+    "title": "PUNJAB ALIENATION OF LAND ACT, 1900",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XIII of 1900",
+    "datePublished": "1900-10-18",
+    "lastUpdated": "2020-02-16",
+    "file": "/legal-documents/board-of-revenue/25_PUNJAB_ALIENATION_OF_LAND_ACT_1900.pdf"
+  },
+  {
+    "id": "board-of-revenue-26",
+    "title": "PUNJAB BOARD OF REVENUE ACT, 1957",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XI of 1957",
+    "datePublished": "1957-02-27",
+    "lastUpdated": "2023-09-19",
+    "file": "/legal-documents/board-of-revenue/26_PUNJAB_BOARD_OF_REVENUE_ACT_1957.pdf"
+  },
+  {
+    "id": "board-of-revenue-27",
+    "title": "PUNJAB CONFERMENT OF PROPRIETARY RIGHTS ON NON-PROPRIETORS IN ABADI DEH ACT, 1995",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act I of 1995",
+    "datePublished": "1995-02-12",
+    "lastUpdated": "2018-10-28",
+    "file": "/legal-documents/board-of-revenue/27_PUNJAB_CONFERMENT_OF_PROPRIETARY_RIGHTS_ON_NON-PROPRIETORS_IN_ABADI_DEH_ACT_1995.pdf"
+  },
+  {
+    "id": "board-of-revenue-28",
+    "title": "PUNJAB CONSOLIDATION OF HOLDINGS ORDINANCE, 1960",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "W.P. Ordinance VI of 1960",
+    "datePublished": "1960-03-09",
+    "lastUpdated": "2023-09-25",
+    "file": "/legal-documents/board-of-revenue/28_PUNJAB_CONSOLIDATION_OF_HOLDINGS_ORDINANCE_1960.pdf"
+  },
+  {
+    "id": "board-of-revenue-29",
+    "title": "PUNJAB COPYING FEES ACT, 1936",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act V of 1936",
+    "datePublished": "1936-11-26",
+    "lastUpdated": "2022-02-15",
+    "file": "/legal-documents/board-of-revenue/29_PUNJAB_COPYING_FEES_ACT_1936.pdf"
+  },
+  {
+    "id": "board-of-revenue-30",
+    "title": "PUNJAB COURT FEES (ABOLITION) ORDINANCE, 1983",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance X of 1983",
+    "datePublished": "1983-06-20",
+    "lastUpdated": "1983-06-20",
+    "file": "/legal-documents/board-of-revenue/30_PUNJAB_COURT_FEES_ABOLITION_ORDINANCE_1983.pdf"
+  },
+  {
+    "id": "board-of-revenue-31",
+    "title": "PUNJAB COURT OF WARDS ACT, 1903",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act II of 1903",
+    "datePublished": "1903-06-01",
+    "lastUpdated": "2020-02-20",
+    "file": "/legal-documents/board-of-revenue/31_PUNJAB_COURT_OF_WARDS_ACT_1903.pdf"
+  },
+  {
+    "id": "board-of-revenue-32",
+    "title": "PUNJAB DEBTORS’ PROTECTION ACT, 1936",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act II of 1936",
+    "datePublished": "1936-06-05",
+    "lastUpdated": "2022-02-15",
+    "file": "/legal-documents/board-of-revenue/32_PUNJAB_DEBTORS_PROTECTION_ACT_1936.pdf"
+  },
+  {
+    "id": "board-of-revenue-33",
+    "title": "PUNJAB DEVELOPMENT OF DAMAGED AREAS ACT, 1952",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XV of 1952",
+    "datePublished": "1952-02-05",
+    "lastUpdated": "2023-09-19",
+    "file": "/legal-documents/board-of-revenue/33_PUNJAB_DEVELOPMENT_OF_DAMAGED_AREAS_ACT_1952.pdf"
+  },
+  {
+    "id": "board-of-revenue-34",
+    "title": "PUNJAB DISTRICTS (RECONSTITUTION) ORDINANCE, 1960",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XXXII of 1960",
+    "datePublished": "1960-12-12",
+    "lastUpdated": "2023-09-26",
+    "file": "/legal-documents/board-of-revenue/34_PUNJAB_DISTRICTS_RECONSTITUTION_ORDINANCE_1960.pdf"
+  },
+  {
+    "id": "board-of-revenue-35",
+    "title": "PUNJAB ENFORCEMENT OF WOMEN'S PROPERTY RIGHTS ACT 2021",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act X of 2021",
+    "datePublished": "2021-05-16",
+    "lastUpdated": "2021-05-16",
+    "file": "/legal-documents/board-of-revenue/35_PUNJAB_ENFORCEMENT_OF_WOMENS_PROPERTY_RIGHTS_ACT_2021.pdf"
+  },
+  {
+    "id": "board-of-revenue-36",
+    "title": "PUNJAB FINANCE ACT 2010",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act VI of 2010",
+    "datePublished": "2010-06-27",
+    "lastUpdated": "2019-01-15",
+    "file": "/legal-documents/board-of-revenue/36_PUNJAB_FINANCE_ACT_2010.pdf"
+  },
+  {
+    "id": "board-of-revenue-37",
+    "title": "PUNJAB FLOOD RELIEF CESS ACT, 1973",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XVIII of 1973",
+    "datePublished": "1973-11-22",
+    "lastUpdated": "1973-11-22",
+    "file": "/legal-documents/board-of-revenue/37_PUNJAB_FLOOD_RELIEF_CESS_ACT_1973.pdf"
+  },
+  {
+    "id": "board-of-revenue-38",
+    "title": "PUNJAB GOVERNMENT DUES RECOVERY ORDINANCE 1962",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XXII of 1962",
+    "datePublished": "1962-05-24",
+    "lastUpdated": "2023-05-10",
+    "file": "/legal-documents/board-of-revenue/38_PUNJAB_GOVERNMENT_DUES_RECOVERY_ORDINANCE_1962.pdf"
+  },
+  {
+    "id": "board-of-revenue-39",
+    "title": "PUNJAB GOVERNMENT LANDS (RESUMPTION OF GRANTS AND EXTINGUISHMENT OF RIGHTS) ACT, 1950",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XVI of 1950",
+    "datePublished": "1950-06-09",
+    "lastUpdated": "2023-09-19",
+    "file": "/legal-documents/board-of-revenue/39_PUNJAB_GOVERNMENT_LANDS_RESUMPTION_OF_GRANTS_AND_EXTINGUISHMENT_OF_RIGHTS_ACT_19.pdf"
+  },
+  {
+    "id": "board-of-revenue-40",
+    "title": "PUNJAB HINDU WOMEN'S RIGHTS TO AGRICULTURAL LAND ORDINANCE, 1959",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XI of 1959",
+    "datePublished": "1959-03-25",
+    "lastUpdated": "2023-09-24",
+    "file": "/legal-documents/board-of-revenue/40_PUNJAB_HINDU_WOMENS_RIGHTS_TO_AGRICULTURAL_LAND_ORDINANCE_1959.pdf"
+  },
+  {
+    "id": "board-of-revenue-41",
+    "title": "PUNJAB JINNAH ABADIS FOR NON-PROPRIETORS IN RURAL AREAS ACT 1986",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act III of 1986",
+    "datePublished": "1986-05-30",
+    "lastUpdated": "1986-05-30",
+    "file": "/legal-documents/board-of-revenue/41_PUNJAB_JINNAH_ABADIS_FOR_NON-PROPRIETORS_IN_RURAL_AREAS_ACT_1986.pdf"
+  },
+  {
+    "id": "board-of-revenue-42",
+    "title": "PUNJAB KATCHI ABADIS ACT, 1992",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act VIII of 1992",
+    "datePublished": "1992-09-18",
+    "lastUpdated": "2018-10-28",
+    "file": "/legal-documents/board-of-revenue/42_PUNJAB_KATCHI_ABADIS_ACT_1992.pdf"
+  },
+  {
+    "id": "board-of-revenue-43",
+    "title": "PUNJAB LAND DISPOSITIONS (SAVING OF SHAMILAT) ORDINANCE, 1959",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance I of 1959",
+    "datePublished": "1959-01-26",
+    "lastUpdated": "2023-09-24",
+    "file": "/legal-documents/board-of-revenue/43_PUNJAB_LAND_DISPOSITIONS_SAVING_OF_SHAMILAT_ORDINANCE_1959.pdf"
+  },
+  {
+    "id": "board-of-revenue-44",
+    "title": "PUNJAB LAND PRESERVATION ACT, 1900",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act II of 1900",
+    "datePublished": "1900-10-09",
+    "lastUpdated": "2020-02-12",
+    "file": "/legal-documents/board-of-revenue/44_PUNJAB_LAND_PRESERVATION_ACT_1900.pdf"
+  },
+  {
+    "id": "board-of-revenue-45",
+    "title": "PUNJAB LAND RECORDS AUTHORITY ACT 2017",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act VI of 2017",
+    "datePublished": "2017-02-12",
+    "lastUpdated": "2017-02-12",
+    "file": "/legal-documents/board-of-revenue/45_PUNJAB_LAND_RECORDS_AUTHORITY_ACT_2017.pdf"
+  },
+  {
+    "id": "board-of-revenue-46",
+    "title": "PUNJAB LAND REVENUE (ABOLITION) ACT 1998",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act II of 1998",
+    "datePublished": "1998-02-23",
+    "lastUpdated": "1998-02-23",
+    "file": "/legal-documents/board-of-revenue/46_PUNJAB_LAND_REVENUE_ABOLITION_ACT_1998.pdf"
+  },
+  {
+    "id": "board-of-revenue-47",
+    "title": "PUNJAB LAND REVENUE ACT, 1967",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XVII of 1967",
+    "datePublished": "1967-12-06",
+    "lastUpdated": "2026-04-19",
+    "file": "/legal-documents/board-of-revenue/47_PUNJAB_LAND_REVENUE_ACT_1967.pdf"
+  },
+  {
+    "id": "board-of-revenue-48",
+    "title": "PUNJAB LAND UTILIZATION AUTHORITY ORDINANCE, 1981",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance VI of 1981",
+    "datePublished": "1981-04-24",
+    "lastUpdated": "1981-04-24",
+    "file": "/legal-documents/board-of-revenue/48_PUNJAB_LAND_UTILIZATION_AUTHORITY_ORDINANCE_1981.pdf"
+  },
+  {
+    "id": "board-of-revenue-49",
+    "title": "PUNJAB LANDS IMPROVEMENT TAX ACT, 1975",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XXXI of 1975",
+    "datePublished": "1975-04-02",
+    "lastUpdated": "2019-01-13",
+    "file": "/legal-documents/board-of-revenue/49_PUNJAB_LANDS_IMPROVEMENT_TAX_ACT_1975.pdf"
+  },
+  {
+    "id": "board-of-revenue-50",
+    "title": "PUNJAB LAWS ACT, 1872",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act IV of 1872",
+    "datePublished": "1872-03-28",
+    "lastUpdated": "2019-01-15",
+    "file": "/legal-documents/board-of-revenue/50_PUNJAB_LAWS_ACT_1872.pdf"
+  },
+  {
+    "id": "board-of-revenue-51",
+    "title": "PUNJAB LETTERS OF ADMINISTRATION AND SUCCESSION CERTIFICATES ACT 2021",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act IX of 2021",
+    "datePublished": "2021-05-16",
+    "lastUpdated": "2025-09-08",
+    "file": "/legal-documents/board-of-revenue/51_PUNJAB_LETTERS_OF_ADMINISTRATION_AND_SUCCESSION_CERTIFICATES_ACT_2021.pdf"
+  },
+  {
+    "id": "board-of-revenue-52",
+    "title": "PUNJAB MINOR CANALS ACT, 1905",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act III of 1905",
+    "datePublished": "1905-05-31",
+    "lastUpdated": "2020-02-17",
+    "file": "/legal-documents/board-of-revenue/52_PUNJAB_MINOR_CANALS_ACT_1905.pdf"
+  },
+  {
+    "id": "board-of-revenue-53",
+    "title": "PUNJAB MUSLIM PERSONAL LAW (SHARIAT) APPLICATION (REMOVAL OF DIFFICULTIES) ACT, 1975",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XXV of 1975",
+    "datePublished": "1975-03-30",
+    "lastUpdated": "1975-03-30",
+    "file": "/legal-documents/board-of-revenue/53_PUNJAB_MUSLIM_PERSONAL_LAW_SHARIAT_APPLICATION_REMOVAL_OF_DIFFICULTIES_ACT_1975.pdf"
+  },
+  {
+    "id": "board-of-revenue-54",
+    "title": "PUNJAB MUSLIM PERSONAL LAW (SHARIAT) APPLICATION (REMOVAL OF DOUBTS) ORDINANCE, 1972",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance IX of 1972",
+    "datePublished": "1972-04-11",
+    "lastUpdated": "1972-04-11",
+    "file": "/legal-documents/board-of-revenue/54_PUNJAB_MUSLIM_PERSONAL_LAW_SHARIAT_APPLICATION_REMOVAL_OF_DOUBTS_ORDINANCE_1972.pdf"
+  },
+  {
+    "id": "board-of-revenue-55",
+    "title": "PUNJAB NATIONAL CALAMITIES (PREVENTION AND RELIEF) ACT, 1958",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XXXIII of 1958",
+    "datePublished": "1958-04-23",
+    "lastUpdated": "2023-09-20",
+    "file": "/legal-documents/board-of-revenue/55_PUNJAB_NATIONAL_CALAMITIES_PREVENTION_AND_RELIEF_ACT_1958.pdf"
+  },
+  {
+    "id": "board-of-revenue-56",
+    "title": "PUNJAB PARTITION OF IMMOVABLE PROPERTY ACT, 2012",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act IV of 2013",
+    "datePublished": "2013-01-04",
+    "lastUpdated": "2013-01-04",
+    "file": "/legal-documents/board-of-revenue/56_PUNJAB_PARTITION_OF_IMMOVABLE_PROPERTY_ACT_2012.pdf"
+  },
+  {
+    "id": "board-of-revenue-57",
+    "title": "PUNJAB PRE-EMPTION (REMOVAL OF DOUBTS) ORDINANCE, 1972",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XI of 1972",
+    "datePublished": "1972-04-11",
+    "lastUpdated": "1972-04-11",
+    "file": "/legal-documents/board-of-revenue/57_PUNJAB_PRE-EMPTION_REMOVAL_OF_DOUBTS_ORDINANCE_1972.pdf"
+  },
+  {
+    "id": "board-of-revenue-58",
+    "title": "PUNJAB PRE-EMPTION ACT 1991",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act IX of 1991",
+    "datePublished": "1991-04-05",
+    "lastUpdated": "1991-04-05",
+    "file": "/legal-documents/board-of-revenue/58_PUNJAB_PRE-EMPTION_ACT_1991.pdf"
+  },
+  {
+    "id": "board-of-revenue-59",
+    "title": "PUNJAB PRIVY PURSES (CHARGED EXPENDITURE) ORDINANCE, 1969",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XLI of 1969",
+    "datePublished": "1969-11-23",
+    "lastUpdated": "1969-11-23",
+    "file": "/legal-documents/board-of-revenue/59_PUNJAB_PRIVY_PURSES_CHARGED_EXPENDITURE_ORDINANCE_1969.pdf"
+  },
+  {
+    "id": "board-of-revenue-60",
+    "title": "PUNJAB PROHIBITION OF INTEREST ON PRIVATE LOANS ACT 2022",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XV of 2022",
+    "datePublished": "2022-08-22",
+    "lastUpdated": "2022-08-22",
+    "file": "/legal-documents/board-of-revenue/60_PUNJAB_PROHIBITION_OF_INTEREST_ON_PRIVATE_LOANS_ACT_2022.pdf"
+  },
+  {
+    "id": "board-of-revenue-61",
+    "title": "PUNJAB PROTECTION AND RESTORATION OF TENANCY RIGHTS ACT, 1950",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XIII of 1950",
+    "datePublished": "1950-05-01",
+    "lastUpdated": "2023-09-19",
+    "file": "/legal-documents/board-of-revenue/61_PUNJAB_PROTECTION_AND_RESTORATION_OF_TENANCY_RIGHTS_ACT_1950.pdf"
+  },
+  {
+    "id": "board-of-revenue-62",
+    "title": "PUNJAB RECOVERY OF COST (COPIES OF ESSENTIAL REVENUE RECORDS) ORDINANCE, 1963",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XVI of 1963",
+    "datePublished": "1963-05-27",
+    "lastUpdated": "2023-04-13",
+    "file": "/legal-documents/board-of-revenue/62_PUNJAB_RECOVERY_OF_COST_COPIES_OF_ESSENTIAL_REVENUE_RECORDS_ORDINANCE_1963.pdf"
+  },
+  {
+    "id": "board-of-revenue-63",
+    "title": "PUNJAB REDEMPTION AND RESTITUTION OF MORTGAGED LANDS ACT 1964",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XIX of 1964",
+    "datePublished": "1964-04-03",
+    "lastUpdated": "2023-05-10",
+    "file": "/legal-documents/board-of-revenue/63_PUNJAB_REDEMPTION_AND_RESTITUTION_OF_MORTGAGED_LANDS_ACT_1964.pdf"
+  },
+  {
+    "id": "board-of-revenue-64",
+    "title": "PUNJAB RELIEF OF INDEBTEDNESS ACT, 1934",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act VII of 1934",
+    "datePublished": "1934-04-07",
+    "lastUpdated": "2022-03-13",
+    "file": "/legal-documents/board-of-revenue/64_PUNJAB_RELIEF_OF_INDEBTEDNESS_ACT_1934.pdf"
+  },
+  {
+    "id": "board-of-revenue-65",
+    "title": "PUNJAB RELIEF OF INDEBTEDNESS ORDINANCE, 1960",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XV of 1960",
+    "datePublished": "1960-04-26",
+    "lastUpdated": "2023-09-25",
+    "file": "/legal-documents/board-of-revenue/65_PUNJAB_RELIEF_OF_INDEBTEDNESS_ORDINANCE_1960.pdf"
+  },
+  {
+    "id": "board-of-revenue-66",
+    "title": "PUNJAB REQUISITIONED LAND (CONTINUANCE) ACT, 1958",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XXX of 1958",
+    "datePublished": "1958-04-23",
+    "lastUpdated": "2023-09-20",
+    "file": "/legal-documents/board-of-revenue/66_PUNJAB_REQUISITIONED_LAND_CONTINUANCE_ACT_1958.pdf"
+  },
+  {
+    "id": "board-of-revenue-67",
+    "title": "PUNJAB SURVEY AND RECTANGULATION OF LANDS ORDINANCE, 1959",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XXXIV of 1959",
+    "datePublished": "1959-05-31",
+    "lastUpdated": "2023-09-25",
+    "file": "/legal-documents/board-of-revenue/67_PUNJAB_SURVEY_AND_RECTANGULATION_OF_LANDS_ORDINANCE_1959.pdf"
+  },
+  {
+    "id": "board-of-revenue-68",
+    "title": "PUNJAB TAUNSA BARRAGE BETTERMENT TAX ORDINANCE, 1971",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance VIII of 1971",
+    "datePublished": "1971-05-03",
+    "lastUpdated": "1971-05-03",
+    "file": "/legal-documents/board-of-revenue/68_PUNJAB_TAUNSA_BARRAGE_BETTERMENT_TAX_ORDINANCE_1971.pdf"
+  },
+  {
+    "id": "board-of-revenue-69",
+    "title": "PUNJAB TENANCY (VALIDATION AND EXTENSION OF PERIOD FOR PAYMENT OF COMPENSATION) ORDINANCE, 1969",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XXXI of 1969",
+    "datePublished": "1969-11-04",
+    "lastUpdated": "1969-11-04",
+    "file": "/legal-documents/board-of-revenue/69_PUNJAB_TENANCY_VALIDATION_AND_EXTENSION_OF_PERIOD_FOR_PAYMENT_OF_COMPENSATION_OR.pdf"
+  },
+  {
+    "id": "board-of-revenue-70",
+    "title": "PUNJAB TENANCY ACT, 1887",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XVI of 1887",
+    "datePublished": "1887-09-22",
+    "lastUpdated": "2018-11-29",
+    "file": "/legal-documents/board-of-revenue/70_PUNJAB_TENANCY_ACT_1887.pdf"
+  },
+  {
+    "id": "board-of-revenue-71",
+    "title": "PUNJAB THAL (INCREASE IN VALUE) ORDINANCE, 1978",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance X of 1978",
+    "datePublished": "1978-04-28",
+    "lastUpdated": "1978-04-28",
+    "file": "/legal-documents/board-of-revenue/71_PUNJAB_THAL_INCREASE_IN_VALUE_ORDINANCE_1978.pdf"
+  },
+  {
+    "id": "board-of-revenue-72",
+    "title": "PUNJAB TRUSTS ACT 2020",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XXI of 2020",
+    "datePublished": "2020-09-09",
+    "lastUpdated": "2023-01-08",
+    "file": "/legal-documents/board-of-revenue/72_PUNJAB_TRUSTS_ACT_2020.pdf"
+  },
+  {
+    "id": "board-of-revenue-73",
+    "title": "PUNJAB USURIOUS LOANS ORDINANCE, 1959",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XVIII of 1959",
+    "datePublished": "1959-03-31",
+    "lastUpdated": "2023-09-24",
+    "file": "/legal-documents/board-of-revenue/73_PUNJAB_USURIOUS_LOANS_ORDINANCE_1959.pdf"
+  },
+  {
+    "id": "board-of-revenue-74",
+    "title": "REGISTRATION ACT, 1908",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XVI of 1908",
+    "datePublished": "1908-12-17",
+    "lastUpdated": "2025-01-21",
+    "file": "/legal-documents/board-of-revenue/74_REGISTRATION_ACT_1908.pdf"
+  },
+  {
+    "id": "board-of-revenue-75",
+    "title": "REPEALING (PUNJAB LOANS LIMITATION) ACT 1923",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act III of 1923",
+    "datePublished": "1923-05-17",
+    "lastUpdated": "2021-11-24",
+    "file": "/legal-documents/board-of-revenue/75_REPEALING_PUNJAB_LOANS_LIMITATION_ACT_1923.pdf"
+  },
+  {
+    "id": "board-of-revenue-76",
+    "title": "REVENUE RECOVERY ACT, 1890",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act I of 1890",
+    "datePublished": "1890-02-13",
+    "lastUpdated": "2020-01-30",
+    "file": "/legal-documents/board-of-revenue/76_REVENUE_RECOVERY_ACT_1890.pdf"
+  },
+  {
+    "id": "board-of-revenue-77",
+    "title": "SETTLEMENT COMMISSIONERS (VALIDATION OF ORDERS) ACT, 1972",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act VI of 1972",
+    "datePublished": "Mon Nov 30, -0001",
+    "lastUpdated": "Mon Nov 30, -0001",
+    "file": "/legal-documents/board-of-revenue/77_SETTLEMENT_COMMISSIONERS_VALIDATION_OF_ORDERS_ACT_1972.pdf"
+  },
+  {
+    "id": "board-of-revenue-78",
+    "title": "STAMP ACT 1899",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act II of 1899",
+    "datePublished": "1899-01-26",
+    "lastUpdated": "2025-09-11",
+    "file": "/legal-documents/board-of-revenue/78_STAMP_ACT_1899.pdf"
+  },
+  {
+    "id": "board-of-revenue-79",
+    "title": "THAL (INCREASE IN VALUE) (VALIDATION OF LEVY OF TAX) ORDINANCE, 1971",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance II of 1971",
+    "datePublished": "1971-02-22",
+    "lastUpdated": "1971-02-22",
+    "file": "/legal-documents/board-of-revenue/79_THAL_INCREASE_IN_VALUE_VALIDATION_OF_LEVY_OF_TAX_ORDINANCE_1971.pdf"
+  },
+  {
+    "id": "board-of-revenue-80",
+    "title": "THAL DEVELOPMENT (VALIDATING) ORDINANCE, 1971",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance XV of 1971",
+    "datePublished": "1971-07-16",
+    "lastUpdated": "2019-01-10",
+    "file": "/legal-documents/board-of-revenue/80_THAL_DEVELOPMENT_VALIDATING_ORDINANCE_1971.pdf"
+  },
+  {
+    "id": "board-of-revenue-81",
+    "title": "THAL DEVELOPMENT ACT, 1949",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act XV of 1949",
+    "datePublished": "1949-07-28",
+    "lastUpdated": "2022-02-15",
+    "file": "/legal-documents/board-of-revenue/81_THAL_DEVELOPMENT_ACT_1949.pdf"
+  },
+  {
+    "id": "board-of-revenue-82",
+    "title": "THE HINDU LAW OF INHERITANCE (AMENDMENT) ACT 1929",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act II of 1929",
+    "datePublished": "1929-02-20",
+    "lastUpdated": "2022-03-10",
+    "file": "/legal-documents/board-of-revenue/82_THE_HINDU_LAW_OF_INHERITANCE_AMENDMENT_ACT_1929.pdf"
+  },
+  {
+    "id": "board-of-revenue-83",
+    "title": "TRANSFER OF PROPERTY ACT 1882",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act IV of 1882",
+    "datePublished": "1882-02-16",
+    "lastUpdated": "1882-02-16",
+    "file": "/legal-documents/board-of-revenue/83_TRANSFER_OF_PROPERTY_ACT_1882.pdf"
+  },
+  {
+    "id": "board-of-revenue-84",
+    "title": "TREASURE-TROVE ACT, 1878",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act VI of 1878",
+    "datePublished": "1878-02-12",
+    "lastUpdated": "1878-02-12",
+    "file": "/legal-documents/board-of-revenue/84_TREASURE-TROVE_ACT_1878.pdf"
+  },
+  {
+    "id": "board-of-revenue-85",
+    "title": "TREASURE-TROVE ACT, 1878",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act VI of 1878",
+    "datePublished": "1878-02-12",
+    "lastUpdated": "1878-02-12",
+    "file": "/legal-documents/board-of-revenue/85_TREASURE-TROVE_ACT_1878.pdf"
+  },
+  {
+    "id": "board-of-revenue-86",
+    "title": "WEST PAKISTAN BORDER AREA REGULATION, 1959",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Martial Law Regulation No.9 of 1959",
+    "datePublished": "1959-03-17",
+    "lastUpdated": "1959-03-17",
+    "file": "/legal-documents/board-of-revenue/86_WEST_PAKISTAN_BORDER_AREA_REGULATION_1959.pdf"
+  },
+  {
+    "id": "board-of-revenue-87",
+    "title": "WEST PAKISTAN MUSLIM PERSONAL LAW (SHARIAT) APPLICATION ACT, 1962",
+    "department": "Board of Revenue",
+    "category": "Act",
+    "reference": "Act V of 1962",
+    "datePublished": "1962-12-30",
+    "lastUpdated": "2023-05-14",
+    "file": "/legal-documents/board-of-revenue/87_WEST_PAKISTAN_MUSLIM_PERSONAL_LAW_SHARIAT_APPLICATION_ACT_1962.pdf"
+  },
+  {
+    "id": "board-of-revenue-88",
+    "title": "WEST PAKISTAN VALIDATION OF NAIB-TEHSILDARS AND NAIB-TEHSILDAR CANDIDATES SELECTION ORDINANCE, 1962",
+    "department": "Board of Revenue",
+    "category": "Ordinance",
+    "reference": "Ordinance VI of 1962",
+    "datePublished": "1962-04-10",
+    "lastUpdated": "2023-05-14",
+    "file": "/legal-documents/board-of-revenue/88_WEST_PAKISTAN_VALIDATION_OF_NAIB-TEHSILDARS_AND_NAIB-TEHSILDAR_CANDIDATES_SELECT.pdf"
+  }
+]
